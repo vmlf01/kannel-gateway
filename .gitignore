@@ -29,6 +29,7 @@ gw/bearerbox
 gw/smsbox
 gw/wapbox
 test/decompile
+test/drive_smpp
 test/drive_wapbox
 test/fakesmsc
 test/fakewap

@@ -16,6 +16,7 @@ checks/check_http.sh -text
 checks/check_list.c -text
 checks/check_octstr.c -text
 checks/check_sendsms.sh -text
+checks/check_smpp.sh -text
 checks/test_dates -text
 /config.h.in -text
 /configure -text
@@ -86,6 +87,9 @@ gw/numhash.c -text
 gw/numhash.h -text
 gw/shared.c -text
 gw/shared.h -text
+gw/smpp_pdu.c -text
+gw/smpp_pdu.def -text
+gw/smpp_pdu.h -text
 gw/smsbox.c -text
 gw/smsc.c -text
 gw/smsc.h -text
@@ -161,6 +165,8 @@ gwlib/parse.c -text
 gwlib/parse.h -text
 gwlib/protected.c -text
 gwlib/protected.h -text
+gwlib/semaphore.c -text
+gwlib/semaphore.h -text
 gwlib/socket.c -text
 gwlib/socket.h -text
 gwlib/thread.c -text
@@ -179,6 +185,8 @@ solaris/readme.txt -text
 test/chartest.html -text
 test/decompile.c -text
 test/decompile.h -text
+test/drive_smpp.c -text
+test/drive_smpp.conf -text
 test/drive_wapbox.c -text
 test/fake.conf -text
 test/fakesmsc.c -text
