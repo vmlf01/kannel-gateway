@@ -27,6 +27,7 @@ checks/check_httpsmsc_kannel.sh -text
 checks/check_ipcheck.c -text
 checks/check_list.c -text
 checks/check_octstr.c -text
+checks/check_ppg.sh -text
 checks/check_sendsms.sh -text
 checks/check_smpp.sh -text
 checks/test_dates -text
@@ -278,7 +279,10 @@ test/header_test -text
 test/hello.wml -text
 test/html-test-1 -text
 test/http2-test-urls -text
+test/iptestppg.txt -text
 test/run-http2-tests -text
+test/sl.txt -text
+test/smstestppg.txt -text
 test/test_cfg.c -text
 test/test_cimd2.c -text
 test/test_dict.c -text
