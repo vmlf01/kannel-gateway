@@ -57,11 +57,13 @@ test/test_http
 test/test_http_server
 test/test_list
 test/test_mem
+test/test_mime
 test/test_msg
 test/test_octstr_format
 test/test_octstr_immutables
 test/test_pdu
 test/test_ppg
+test/test_si
 test/test_smsc
 test/test_udp
 test/test_urltrans
