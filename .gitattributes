@@ -323,6 +323,7 @@ test/test_smsc.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
 test/test_wakeup.c -text
+test/test_xmlrpc.c -text
 test/testcase.wml -text
 test/timestamp.c -text
 test/udpfeed.c -text
