@@ -242,13 +242,12 @@ gw/smsc/smpp_pdu_opt.def -text
 gw/smsc/smsc.c -text
 gw/smsc/smsc.h -text
 gw/smsc/smsc_at.c -text
-gw/smsc/smsc_at2.c -text
-gw/smsc/smsc_at2.h -text
+gw/smsc/smsc_at.h -text
 gw/smsc/smsc_cgw.c -text
 gw/smsc/smsc_cimd.c -text
 gw/smsc/smsc_cimd2.c -text
 gw/smsc/smsc_emi.c -text
-gw/smsc/smsc_emi2.c -text
+gw/smsc/smsc_emi_x25.c -text
 gw/smsc/smsc_fake.c -text
 gw/smsc/smsc_http.c -text
 gw/smsc/smsc_ois.c -text
