@@ -420,6 +420,7 @@ utils/kannel-redhat.init.d -text
 utils/kannel-stable-rh6x.spec -text
 utils/kannel-stable-rh7.spec -text
 utils/makedist -text
+utils/mtbatch.c -text
 utils/pixmapgen.pl -text
 utils/run-checks -text
 utils/run_kannel_box.8 -text
