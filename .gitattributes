@@ -124,6 +124,8 @@ gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
 gw/control.html -text
+gw/dlr.c -text
+gw/dlr.h -text
 gw/emimsg.c -text
 gw/emimsg.h -text
 gw/heartbeat.c -text
