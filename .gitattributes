@@ -61,6 +61,8 @@ gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
 gw/control.html -text
+gw/heartbeat.c -text
+gw/heartbeat.h -text
 gw/html.c -text
 gw/html.h -text
 gw/kannel.8 -text
