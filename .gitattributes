@@ -69,6 +69,7 @@ gw/wtp_timer.c -text
 gw/wtp_timer.h -text
 gwlib/config.c -text
 gwlib/config.h -text
+gwlib/gwlib.h -text
 gwlib/http.c -text
 gwlib/http.h -text
 gwlib/octstr.c -text
