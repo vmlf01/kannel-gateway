@@ -270,6 +270,8 @@ gw/wap-appl.c -text
 gw/wap-appl.h -text
 gw/wap-error.c -text
 gw/wap-error.h -text
+gw/wap-maps.c -text
+gw/wap-maps.h -text
 gw/wap_ppg_push_machine.def -text
 gw/wap_ppg_session_machine.def -text
 gw/wap_push_ota.c -text
