@@ -194,6 +194,7 @@ test/fake.conf -text
 test/fakesmsc.c -text
 test/fakewap.c -text
 test/header_test -text
+test/hello.wml -text
 test/html-test-1 -text
 test/http2-test-urls -text
 test/run-http2-tests -text
