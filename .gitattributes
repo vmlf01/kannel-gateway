@@ -55,6 +55,12 @@ contrib/web/form.php -text
 contrib/web/index.html -text
 contrib/web/menu.html -text
 contrib/web/sendsms.php -text
+contrib/webalizer/ReadMe -text
+contrib/webalizer/converte.pl -text
+contrib/webalizer/multi-line.pl -text
+contrib/webalizer/split.pl -text
+contrib/webalizer/stats.sh -text
+contrib/webalizer/webalizer.conf -text
 debian/changelog -text
 debian/conffiles -text
 debian/control -text
