@@ -112,10 +112,11 @@ doc/arch/wap-arch.fig -text
 doc/arch/wap-session.fig -text
 doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
-doc/dlr-mysql.conf -text
+doc/examples/dlr-mysql.conf -text
+doc/examples/dlr-sdb.conf -text
+doc/examples/kannel.conf -text
+doc/examples/modems.conf -text
 doc/fakewap-packets.txt -text
-doc/kannel.conf -text
-doc/modems.conf -text
 doc/release.txt -text
 doc/userguide/sms-gateway.fig -text
 doc/userguide/userguide.xml -text
