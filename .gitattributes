@@ -104,6 +104,8 @@ gwlib/charset.c -text
 gwlib/charset.h -text
 gwlib/conffile.c -text
 gwlib/conffile.h -text
+gwlib/conn.c -text
+gwlib/conn.h -text
 gwlib/counter.c -text
 gwlib/counter.h -text
 gwlib/getnameinfo.h -text
