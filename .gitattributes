@@ -15,6 +15,7 @@
 /cgi.h -text
 /config.c -text
 /config.h -text
+/control.html -text
 /csdr.c -text
 /csdr.h -text
 /fake.conf -text
