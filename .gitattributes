@@ -11,10 +11,7 @@
 /README.src -text
 /README.wmlscript -text
 /VERSION -text
-/acconfig.h -text
-/config.h.bot -text
 /config.h.in -text
-/config.h.top -text
 /configure -text
 /configure.in -text
 doc/CodingStyle -text
@@ -124,7 +121,6 @@ gwlib/utils.h -text
 /install-sh -text
 /missing -text
 /mkinstalldirs -text
-/stamp-h.in -text
 test/chartest.html -text
 test/fake.conf -text
 test/fakesmsc.c -text
@@ -137,6 +133,7 @@ test/simple.smsconf -text
 test/test_counter.c -text
 test/test_http.c -text
 test/test_list.c -text
+test/test_mem.c -text
 test/test_msg.c -text
 test/udp_send.c -text
 test/wapbox_feeder.c -text
