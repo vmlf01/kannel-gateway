@@ -138,6 +138,7 @@ test/timestamp
 test/udp_send
 test/udpfeed
 test/wapbox_feeder
+test/wapproxy
 test/wml_tester
 utils/run_kannel_box
 utils/seewbmp
