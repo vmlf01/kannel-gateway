@@ -93,6 +93,7 @@ gw/smsc_at.c -text
 gw/smsc_cimd.c -text
 gw/smsc_cimd2.c -text
 gw/smsc_emi.c -text
+gw/smsc_fake.c -text
 gw/smsc_interface.def -text
 gw/smsc_ois.c -text
 gw/smsc_p.h -text
@@ -187,6 +188,7 @@ test/decompile.h -text
 test/drive_smpp.c -text
 test/drive_smpp.conf -text
 test/drive_wapbox.c -text
+test/fakesmsc.c -text
 test/fakewap.c -text
 test/header_test -text
 test/hello.wml -text
