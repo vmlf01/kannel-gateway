@@ -161,6 +161,8 @@ gwlib/date.c -text
 gwlib/date.h -text
 gwlib/dict.c -text
 gwlib/dict.h -text
+gwlib/fdset.c -text
+gwlib/fdset.h -text
 gwlib/gw-getopt.h -text
 gwlib/gwassert.h -text
 gwlib/gwlib.c -text
