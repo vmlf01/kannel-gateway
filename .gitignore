@@ -1,5 +1,6 @@
 /.depend
 /Makefile
+checks/check_counter
 /config.cache
 /config.h
 /config.log
