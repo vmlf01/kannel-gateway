@@ -109,7 +109,6 @@ gwlib/gwassert.h -text
 gwlib/gwlib.h -text
 gwlib/gwmem.c -text
 gwlib/gwmem.h -text
-gwlib/gwstdint.h -text
 gwlib/gwstr.c -text
 gwlib/gwstr.h -text
 gwlib/http.c -text
