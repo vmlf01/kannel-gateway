@@ -6,6 +6,7 @@
 /Makefile.in -text
 /NEWS -text
 /README -text
+/README.MACOSX -text
 /STATUS -text
 /TODO -text
 /VERSION -text
