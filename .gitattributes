@@ -288,6 +288,8 @@ gwlib/counter.c -text
 gwlib/counter.h -text
 gwlib/date.c -text
 gwlib/date.h -text
+gwlib/dbpool.c -text
+gwlib/dbpool.h -text
 gwlib/dict.c -text
 gwlib/dict.h -text
 gwlib/fdset.c -text
@@ -361,6 +363,7 @@ test/sl.txt -text
 test/smstestppg.txt -text
 test/test_cfg.c -text
 test/test_cimd2.c -text
+test/test_dbpool.c -text
 test/test_dict.c -text
 test/test_headers.c -text
 test/test_http.c -text
