@@ -48,6 +48,7 @@ doc/arch/arch.xml -text
 doc/arch/wapbox-arch.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
+doc/platforms/FAQ.solaris -text
 doc/release.txt -text
 doc/userguide/sms-gateway.fig -text
 doc/userguide/userguide.xml -text
