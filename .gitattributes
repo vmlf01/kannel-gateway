@@ -69,9 +69,50 @@ doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
 doc/release.txt -text
+doc/userguide/images/11-1.png -text svneol=unset#unset
+doc/userguide/images/11-3.png -text svneol=unset#unset
+doc/userguide/images/11-4.bmp -text svneol=unset#unset
+doc/userguide/images/11-4.png -text svneol=unset#unset
+doc/userguide/images/11-5.png -text svneol=unset#unset
+doc/userguide/images/12-10.png -text svneol=unset#unset
+doc/userguide/images/12-11.png -text svneol=unset#unset
+doc/userguide/images/12-12.png -text svneol=unset#unset
+doc/userguide/images/12-13.png -text svneol=unset#unset
+doc/userguide/images/12-2.png -text svneol=unset#unset
+doc/userguide/images/12-3.png -text svneol=unset#unset
+doc/userguide/images/12-4.png -text svneol=unset#unset
+doc/userguide/images/12-5.png -text svneol=unset#unset
+doc/userguide/images/12-6.png -text svneol=unset#unset
+doc/userguide/images/12-7.png -text svneol=unset#unset
+doc/userguide/images/12-8.png -text svneol=unset#unset
+doc/userguide/images/12-9.png -text svneol=unset#unset
+doc/userguide/images/13-5.png -text svneol=unset#unset
+doc/userguide/images/done.png -text svneol=unset#unset
+doc/userguide/images/fig10o.png -text svneol=unset#unset
+doc/userguide/images/fig1o.png -text svneol=unset#unset
+doc/userguide/images/fig2o.png -text svneol=unset#unset
+doc/userguide/images/fig3o.png -text svneol=unset#unset
+doc/userguide/images/fig4o.png -text svneol=unset#unset
+doc/userguide/images/fig4out.png -text svneol=unset#unset
+doc/userguide/images/fig5o.png -text svneol=unset#unset
+doc/userguide/images/fig5out.png -text svneol=unset#unset
+doc/userguide/images/fig6o.png -text svneol=unset#unset
+doc/userguide/images/fig6out.png -text svneol=unset#unset
+doc/userguide/images/fig6out1.png -text svneol=unset#unset
+doc/userguide/images/fig7o.png -text svneol=unset#unset
+doc/userguide/images/fig8o.png -text svneol=unset#unset
+doc/userguide/images/fig9o.png -text svneol=unset#unset
+doc/userguide/images/licences.png -text svneol=unset#unset
+doc/userguide/images/maininst.png -text svneol=unset#unset
+doc/userguide/images/nearlydone.png -text svneol=unset#unset
+doc/userguide/images/nopro.png -text svneol=unset#unset
+doc/userguide/images/progress.png -text svneol=unset#unset
+doc/userguide/images/wapdiagsmall.png -text svneol=unset#unset
 doc/userguide/sms-gateway.fig -text
+doc/userguide/user2.1.xml -text
 doc/userguide/userguide.xml -text
 doc/userguide/wap-gateway.fig -text
+doc/userguide/wtls.xml -text
 gw/alt_charsets.h -text
 gw/bb.h -text
 gw/bb_boxc.c -text
