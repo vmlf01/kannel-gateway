@@ -1,6 +1,7 @@
 /.depend
 /Makefile
 checks/check_counter
+checks/check_date
 checks/check_list
 checks/check_octstr
 /config.cache

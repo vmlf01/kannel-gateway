@@ -11,10 +11,12 @@
 /README.wmlscript -text
 /VERSION -text
 checks/check_counter.c -text
+checks/check_date.c -text
 checks/check_fakewap.sh -text
 checks/check_http.sh -text
 checks/check_list.c -text
 checks/check_octstr.c -text
+checks/test_dates -text
 /config.h.in -text
 /configure -text
 /configure.in -text
