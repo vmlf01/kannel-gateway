@@ -73,6 +73,8 @@ gw/msg.c -text
 gw/msg.h -text
 gw/numhash.c -text
 gw/numhash.h -text
+gw/shared.c -text
+gw/shared.h -text
 gw/smsbox.c -text
 gw/smsbox_req.c -text
 gw/smsbox_req.h -text
