@@ -237,6 +237,7 @@ utils/find-long-lines -text
 utils/kannel-init.d -text
 utils/kannel-log-summary -text
 utils/kannel-nag -text
+utils/kannel-redhat.init.d -text
 utils/makedist -text
 utils/pixmapgen.pl -text
 utils/run-checks -text
