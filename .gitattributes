@@ -7,6 +7,7 @@
 /NEWS -text
 /README -text
 /VERSION -text
+/aclocal.m4 -text
 benchmarks/bench_http.sh -text
 benchmarks/bench_http.txt -text
 benchmarks/bench_sms.conf -text
