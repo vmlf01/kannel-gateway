@@ -194,6 +194,8 @@ test/test_http.c -text
 test/test_http_server.c -text
 test/test_mem.c -text
 test/test_msg.c -text
+test/test_octstr_format.c -text
+test/test_octstr_immutables.c -text
 test/test_pdu.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
