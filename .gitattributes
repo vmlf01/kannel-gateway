@@ -185,6 +185,9 @@ gw/sms.h -text
 gw/smsbox.c -text
 gw/smsc/emimsg.c -text
 gw/smsc/emimsg.h -text
+gw/smsc/smasi_pdu.c -text
+gw/smsc/smasi_pdu.def -text
+gw/smsc/smasi_pdu.h -text
 gw/smsc/smpp_pdu.c -text
 gw/smsc/smpp_pdu.def -text
 gw/smsc/smpp_pdu.h -text
@@ -204,6 +207,7 @@ gw/smsc/smsc_ois.c -text
 gw/smsc/smsc_p.h -text
 gw/smsc/smsc_sema.c -text
 gw/smsc/smsc_sema.h -text
+gw/smsc/smsc_smasi.c -text
 gw/smsc/smsc_smpp.c -text
 gw/smsc/smsc_wrapper.c -text
 gw/smscconn.c -text
