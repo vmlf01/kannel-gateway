@@ -16,5 +16,6 @@ test/wapbox_feeder
 test/wml_tester
 utils/run_kannel_box
 utils/seewbmp
+utils/start-stop-daemon
 wmlscript/wmlsc
 wmlscript/wmlsdasm
