@@ -110,6 +110,7 @@ gwlib/counter.c -text
 gwlib/counter.h -text
 gwlib/getnameinfo.h -text
 gwlib/gwassert.h -text
+gwlib/gwlib.c -text
 gwlib/gwlib.h -text
 gwlib/gwmem-check.c -text
 gwlib/gwmem-native.c -text
