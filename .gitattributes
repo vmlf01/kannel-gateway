@@ -10,10 +10,6 @@
 /README.docbook -text
 /README.src -text
 /README.wmlscript -text
-/Release-0.1 -text
-/Release-0.2 -text
-/Release-0.2.2 -text
-/Rules.mk -text
 /VERSION -text
 /acconfig.h -text
 /config.h.bot -text
