@@ -34,6 +34,8 @@
 /sms_msg.h -text
 /smsbox.c -text
 /smsbox.smsconf -text
+/smsbox_req.c -text
+/smsbox_req.h -text
 /smsc.c -text
 /smsc.h -text
 /smsc_cimd.c -text
