@@ -28,11 +28,11 @@
 /msg.h -text
 /octstr.c -text
 /octstr.h -text
-/simple.conf -text
+/simple.smsconf -text
 /sms_msg.c -text
 /sms_msg.h -text
 /smsbox.c -text
-/smsbox.conf -text
+/smsbox.smsconf -text
 /smsc.c -text
 /smsc.h -text
 /smsc_cimd.c -text
