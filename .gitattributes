@@ -76,6 +76,7 @@ gw/smsc_cimd2.c -text
 gw/smsc_emi.c -text
 gw/smsc_fake.c -text
 gw/smsc_interface.def -text
+gw/smsc_ois.c -text
 gw/smsc_p.h -text
 gw/smsc_sema.c -text
 gw/smsc_sema.h -text
