@@ -157,6 +157,7 @@ test/sample.conf -text
 test/sample.smsconf -text
 test/sample.wapconf -text
 test/simple.smsconf -text
+test/test_cimd2.c -text
 test/test_counter.c -text
 test/test_http.c -text
 test/test_http2.c -text
