@@ -43,8 +43,12 @@ doc/userguide/userguide.xml -text
 doc/userguide/wap-gateway.fig -text
 gw/alt_charsets.h -text
 gw/bb.h -text
+gw/bb_boxc.c -text
+gw/bb_core.c -text
 gw/bb_msg.c -text
 gw/bb_msg.h -text
+gw/bb_smsc.c -text
+gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/boxc.c -text
 gw/boxc.h -text
@@ -59,6 +63,8 @@ gw/kannel.wapconf -text
 gw/msg-decl.h -text
 gw/msg.c -text
 gw/msg.h -text
+gw/new_bb.h -text
+gw/new_kannel.conf -text
 gw/smsbox.c -text
 gw/smsbox_req.c -text
 gw/smsbox_req.h -text
