@@ -159,8 +159,6 @@ gw/cert.pem -text
 gw/control.html -text
 gw/dlr.c -text
 gw/dlr.h -text
-gw/emimsg.c -text
-gw/emimsg.h -text
 gw/heartbeat.c -text
 gw/heartbeat.h -text
 gw/html.c -text
@@ -182,13 +180,15 @@ gw/pushkannel.conf -text
 gw/settings.dtd -text
 gw/shared.c -text
 gw/shared.h -text
-gw/smpp_pdu.c -text
-gw/smpp_pdu.def -text
-gw/smpp_pdu.h -text
 gw/sms.c -text
 gw/sms.h -text
 gw/smsbox.c -text
 gw/smsc.h -text
+gw/smsc/emimsg.c -text
+gw/smsc/emimsg.h -text
+gw/smsc/smpp_pdu.c -text
+gw/smsc/smpp_pdu.def -text
+gw/smsc/smpp_pdu.h -text
 gw/smsc/smsc.c -text
 gw/smsc/smsc_at.c -text
 gw/smsc/smsc_at2.c -text
