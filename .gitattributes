@@ -171,6 +171,7 @@ gw/smsc.c -text
 gw/smsc.h -text
 gw/smsc_at.c -text
 gw/smsc_at2.c -text
+gw/smsc_at2.h -text
 gw/smsc_cgw.c -text
 gw/smsc_cimd.c -text
 gw/smsc_cimd2.c -text
