@@ -6,6 +6,7 @@
 /Makefile.in -text
 /NEWS -text
 /README -text
+/STATUS -text
 /VERSION -text
 /aclocal.m4 -text
 benchmarks/bench_http.sh -text
