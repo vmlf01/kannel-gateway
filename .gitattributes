@@ -451,6 +451,7 @@ utils/source-stats -text
 utils/start-stop-daemon.8 -text
 utils/start-stop-daemon.c -text
 utils/utf8map.pl -text
+utils/vimrc -text
 utils/wbmp.c -text
 utils/wbmp.h -text
 utils/win1257unicode.txt -text
