@@ -207,6 +207,7 @@ gw/dlr_mem.c -text
 gw/dlr_mysql.c -text
 gw/dlr_oracle.c -text
 gw/dlr_p.h -text
+gw/dlr_pgsql.c -text
 gw/dlr_sdb.c -text
 gw/heartbeat.c -text
 gw/heartbeat.h -text
