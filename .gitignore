@@ -32,6 +32,7 @@ test/fakesmsc
 test/fakewap
 test/test_cimd2
 test/test_counter
+test/test_dict
 test/test_headers
 test/test_http
 test/test_http_server

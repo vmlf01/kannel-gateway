@@ -213,6 +213,7 @@ test/html-test-1 -text
 test/http2-test-urls -text
 test/run-http2-tests -text
 test/test_cimd2.c -text
+test/test_dict.c -text
 test/test_headers.c -text
 test/test_http.c -text
 test/test_http_server.c -text
