@@ -141,6 +141,7 @@ test/wapbox_feeder.c -text
 test/wml_tester.c -text
 utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
+utils/changelog-report -text
 utils/kannel-init.d -text
 utils/kannel-nag -text
 utils/makedist -text
