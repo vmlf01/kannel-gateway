@@ -9,6 +9,7 @@
 /VERSION -text
 checks/check_counter.c -text
 checks/check_date.c -text
+checks/check_fakesmsc.sh -text
 checks/check_fakewap.sh -text
 checks/check_headers.sh -text
 checks/check_http.sh -text
