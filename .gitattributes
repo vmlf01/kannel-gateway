@@ -45,6 +45,7 @@ gw/alt_charsets.h -text
 gw/bb.h -text
 gw/bb_boxc.c -text
 gw/bb_core.c -text
+gw/bb_http.c -text
 gw/bb_msg.c -text
 gw/bb_msg.h -text
 gw/bb_smsc.c -text
