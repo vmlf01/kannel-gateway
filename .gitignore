@@ -16,6 +16,7 @@ doc/userguide/userguide.html
 doc/userguide/userguide.ps
 doc/userguide/wap-gateway.png
 doc/userguide/wap-gateway.ps
+gw/bb_core
 gw/bearerbox
 gw/smsbox
 gw/wapbox
