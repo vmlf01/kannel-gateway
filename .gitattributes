@@ -64,9 +64,7 @@ contrib/webalizer/multi-line.pl -text
 contrib/webalizer/split.pl -text
 contrib/webalizer/stats.sh -text
 contrib/webalizer/webalizer.conf -text
-debian/changelog -text
 debian/conffiles -text
-debian/control -text
 debian/copyright -text
 debian/docs -text
 debian/init -text
