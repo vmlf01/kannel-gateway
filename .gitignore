@@ -23,7 +23,7 @@ debian/*.substvars
 debian/files
 debian/kannel
 debian/kannel-docs
-debian/kannel-extra
+debian/kannel-extras
 debian/tmp
 /diff
 /diff2
