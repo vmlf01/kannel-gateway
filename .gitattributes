@@ -12,6 +12,7 @@
 /VERSION -text
 checks/check_counter.c -text
 checks/check_fakewap.sh -text
+checks/check_list.c -text
 /config.h.in -text
 /configure -text
 /configure.in -text
@@ -191,7 +192,6 @@ test/run-http2-tests -text
 test/test_cimd2.c -text
 test/test_http.c -text
 test/test_http_server.c -text
-test/test_list.c -text
 test/test_mem.c -text
 test/test_msg.c -text
 test/test_pdu.c -text
