@@ -123,6 +123,8 @@ gw/wap-appl.c -text
 gw/wap-appl.h -text
 gw/wap_push_ota.c -text
 gw/wap_push_ota.h -text
+gw/wap_push_ppg.c -text
+gw/wap_push_ppg.h -text
 gw/wapbox.c -text
 gw/wapkannel.conf -text
 gw/wml_compiler.c -text
