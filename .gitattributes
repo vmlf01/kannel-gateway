@@ -91,6 +91,8 @@ gw/smsc_sema.c -text
 gw/smsc_sema.h -text
 gw/smsc_smpp.c -text
 gw/smsc_smpp.h -text
+gw/smscconn.c -text
+gw/smscconn.h -text
 gw/smskannel.conf -text
 gw/timers.c -text
 gw/timers.h -text
