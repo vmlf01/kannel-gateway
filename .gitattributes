@@ -13,6 +13,7 @@ checks/check_fakesmsc.sh -text
 checks/check_fakewap.sh -text
 checks/check_headers.sh -text
 checks/check_http.sh -text
+checks/check_ipcheck.c -text
 checks/check_list.c -text
 checks/check_octstr.c -text
 checks/check_sendsms.sh -text
