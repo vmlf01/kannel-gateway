@@ -15,6 +15,7 @@ checks/check_headers.sh -text
 checks/check_http.sh -text
 checks/check_list.c -text
 checks/check_octstr.c -text
+checks/check_sendsms.sh -text
 checks/test_dates -text
 /config.h.in -text
 /configure -text
