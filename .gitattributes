@@ -13,6 +13,7 @@
 /config.h.in -text
 /configure -text
 /configure.in -text
+contrib/html2wml.pl -text
 debian/changelog -text
 debian/control -text
 debian/copyright -text
