@@ -78,6 +78,8 @@ gw/wml.h -text
 gw/wsp.c -text
 gw/wsp.h -text
 gw/wsp_events-decl.h -text
+gw/wsp_headers.c -text
+gw/wsp_headers.h -text
 gw/wsp_machine-decl.h -text
 gw/wsp_state-decl.h -text
 gw/wtp.c -text
