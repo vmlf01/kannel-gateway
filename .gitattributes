@@ -396,6 +396,7 @@ test/run-http2-tests.sh -text
 test/settings4.txt -text
 test/sl.txt -text
 test/smstestppg.txt -text
+test/test_boxc.c -text
 test/test_cfg.c -text
 test/test_cimd2.c -text
 test/test_dbpool.c -text
