@@ -99,6 +99,9 @@ gw/wsp_state-decl.h -text
 gw/wtp.c -text
 gw/wtp.h -text
 gw/wtp_machine-decl.h -text
+gw/wtp_pdu.c -text
+gw/wtp_pdu.def -text
+gw/wtp_pdu.h -text
 gw/wtp_send.c -text
 gw/wtp_send.h -text
 gw/wtp_state-decl.h -text
@@ -157,6 +160,7 @@ test/test_http2_server.c -text
 test/test_list.c -text
 test/test_mem.c -text
 test/test_msg.c -text
+test/test_pdu.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
 test/wml_tester.c -text
