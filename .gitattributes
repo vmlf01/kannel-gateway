@@ -86,8 +86,11 @@ doc/alligata/progress.png -text svneol=unset#unset
 doc/alligata/wapdiagsmall.png -text svneol=unset#unset
 doc/arch/arch.xml -text
 doc/arch/bearerbox-arch.fig -text
+doc/arch/conf-push-session.fig -text
 doc/arch/external-interfaces.fig -text
 doc/arch/kannel-boxes.fig -text
+doc/arch/kannel-push-boxes.fig -text
+doc/arch/pushbox-threads.fig -text
 doc/arch/wap-arch.fig -text
 doc/arch/wap-session.fig -text
 doc/arch/wapbox-threads.fig -text
