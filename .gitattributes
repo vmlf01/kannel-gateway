@@ -59,6 +59,31 @@ debian/postinst -text
 debian/postrm -text
 debian/rules -text
 doc/CodingStyle -text
+doc/alligata/11-1.png -text svneol=unset#unset
+doc/alligata/11-3.png -text svneol=unset#unset
+doc/alligata/11-4.png -text svneol=unset#unset
+doc/alligata/11-5.png -text svneol=unset#unset
+doc/alligata/12-10.png -text svneol=unset#unset
+doc/alligata/12-11.png -text svneol=unset#unset
+doc/alligata/12-12.png -text svneol=unset#unset
+doc/alligata/12-13.png -text svneol=unset#unset
+doc/alligata/12-2.png -text svneol=unset#unset
+doc/alligata/12-3.png -text svneol=unset#unset
+doc/alligata/12-4.png -text svneol=unset#unset
+doc/alligata/12-5.png -text svneol=unset#unset
+doc/alligata/12-6.png -text svneol=unset#unset
+doc/alligata/12-7.png -text svneol=unset#unset
+doc/alligata/12-8.png -text svneol=unset#unset
+doc/alligata/12-9.png -text svneol=unset#unset
+doc/alligata/13-5.png -text svneol=unset#unset
+doc/alligata/alligata.xml -text
+doc/alligata/done.png -text svneol=unset#unset
+doc/alligata/licences.png -text svneol=unset#unset
+doc/alligata/maininst.png -text svneol=unset#unset
+doc/alligata/nearlydone.png -text svneol=unset#unset
+doc/alligata/nopro.png -text svneol=unset#unset
+doc/alligata/progress.png -text svneol=unset#unset
+doc/alligata/wapdiagsmall.png -text svneol=unset#unset
 doc/arch/arch.xml -text
 doc/arch/bearerbox-arch.fig -text
 doc/arch/external-interfaces.fig -text
@@ -114,6 +139,21 @@ doc/userguide/user2.1.xml -text
 doc/userguide/userguide.xml -text
 doc/userguide/wap-gateway.fig -text
 doc/userguide/wtls.xml -text
+doc/wtls/fig10o.png -text svneol=unset#unset
+doc/wtls/fig1o.png -text svneol=unset#unset
+doc/wtls/fig2o.png -text svneol=unset#unset
+doc/wtls/fig3o.png -text svneol=unset#unset
+doc/wtls/fig4o.png -text svneol=unset#unset
+doc/wtls/fig4out.png -text svneol=unset#unset
+doc/wtls/fig5o.png -text svneol=unset#unset
+doc/wtls/fig5out.png -text svneol=unset#unset
+doc/wtls/fig6o.png -text svneol=unset#unset
+doc/wtls/fig6out.png -text svneol=unset#unset
+doc/wtls/fig6out1.png -text svneol=unset#unset
+doc/wtls/fig7o.png -text svneol=unset#unset
+doc/wtls/fig8o.png -text svneol=unset#unset
+doc/wtls/fig9o.png -text svneol=unset#unset
+doc/wtls/wtls.xml -text
 gw/alt_charsets.h -text
 gw/bb.h -text
 gw/bb_boxc.c -text
