@@ -216,6 +216,7 @@ utils/pixmapgen.pl -text
 utils/run-checks -text
 utils/run_kannel_box.c -text
 utils/seewbmp.c -text
+utils/source-stats -text
 utils/start-stop-daemon.8 -text
 utils/start-stop-daemon.c -text
 utils/utf8map.pl -text
