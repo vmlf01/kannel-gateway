@@ -3,6 +3,7 @@
 /Makefile -text
 /VERSION -text
 /alt_charsets.h -text
+/bb.h -text
 /bb_msg.c -text
 /bb_msg.h -text
 /bearerbox.c -text
@@ -23,8 +24,11 @@
 /http.h -text
 /octstr.c -text
 /octstr.h -text
+/simple.conf -text
+/sms_msg.c -text
 /sms_msg.h -text
 /smsbox.c -text
+/smsbox.conf -text
 /smsc.c -text
 /smsc.h -text
 /smsc_cimd.c -text
