@@ -171,8 +171,6 @@ gw/wap_ppg_push_machine.def -text
 gw/wap_ppg_session_machine.def -text
 gw/wap_push_ota.c -text
 gw/wap_push_ota.h -text
-gw/wap_push_pap.c -text
-gw/wap_push_pap.h -text
 gw/wap_push_pap_compiler.c -text
 gw/wap_push_pap_compiler.h -text
 gw/wap_push_pap_mime.c -text
