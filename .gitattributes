@@ -12,6 +12,7 @@ benchmarks/bench_http.txt -text
 benchmarks/bench_sms.conf -text
 benchmarks/bench_sms.sh -text
 benchmarks/bench_sms.txt -text
+benchmarks/functions.inc -text
 benchmarks/report-begin.txt -text
 benchmarks/report-end.txt -text
 benchmarks/run-benchmarks -text
