@@ -130,6 +130,7 @@ utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
 utils/makedist -text
 utils/pixmapgen.pl -text
+utils/seewbmp.c -text
 utils/wbmp.c -text
 utils/wbmp.h -text
 wmlscript/lexer.txt -text
