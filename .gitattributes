@@ -75,6 +75,8 @@ gw/wapbox.h -text
 gw/wapbox.wapconf -text
 gw/wml.c -text
 gw/wml.h -text
+gw/wml_compiler.c -text
+gw/wml_compiler.h -text
 gw/wsp.c -text
 gw/wsp.h -text
 gw/wsp_events-decl.h -text
