@@ -75,6 +75,15 @@ debian/kannel.conf -text
 debian/postinst -text
 debian/postrm -text
 debian/rules -text
+doc/ChangeLog-0.13.1 -text
+doc/ChangeLog-1.1 -text
+doc/ChangeLog-1.1.1 -text
+doc/ChangeLog-1.1.2 -text
+doc/ChangeLog-1.1.3 -text
+doc/ChangeLog-1.1.4 -text
+doc/ChangeLog-1.1.5 -text
+doc/ChangeLog-1.1.6 -text
+doc/ChangeLog-1.2.0 -text
 doc/CodingStyle -text
 doc/alligata/11-1.png -text svneol=unset#unset
 doc/alligata/11-3.png -text svneol=unset#unset
