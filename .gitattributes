@@ -49,6 +49,7 @@ doc/arch/wapbox-arch.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
 doc/release.txt -text
+doc/userguide/sms-gateway.fig -text
 doc/userguide/userguide.xml -text
 doc/userguide/wap-gateway.fig -text
 gw/alt_charsets.h -text
