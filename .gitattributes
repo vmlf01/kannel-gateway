@@ -20,6 +20,8 @@ doc/arch/arch-smsbox.xml -text
 doc/arch/arch-wapbox.xml -text
 doc/arch/arch.xml -text
 doc/release.txt -text
+doc/userguide/Makefile -text
+doc/userguide/userguide.xml -text
 gw/alt_charsets.h -text
 gw/bb.h -text
 gw/bb_msg.c -text
