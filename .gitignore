@@ -22,6 +22,9 @@ debian/*.debhelper
 debian/*.substvars
 debian/files
 debian/kannel
+debian/kannel-cvs
+debian/kannel-cvs-docs
+debian/kannel-cvs-extras
 debian/kannel-devel
 debian/kannel-devel-docs
 debian/kannel-devel-extras
