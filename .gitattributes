@@ -200,6 +200,10 @@ gw/cert.pem -text
 gw/control.html -text
 gw/dlr.c -text
 gw/dlr.h -text
+gw/dlr_mem.c -text
+gw/dlr_mysql.c -text
+gw/dlr_p.h -text
+gw/dlr_sdb.c -text
 gw/heartbeat.c -text
 gw/heartbeat.h -text
 gw/html.c -text
