@@ -151,6 +151,8 @@ gwlib/utils.h -text
 /missing -text
 /mkinstalldirs -text
 test/chartest.html -text
+test/decompile.c -text
+test/decompile.h -text
 test/drive_wapbox.c -text
 test/fake.conf -text
 test/fakesmsc.c -text
