@@ -179,11 +179,16 @@ gw/wap_push_pap_mime.c -text
 gw/wap_push_pap_mime.h -text
 gw/wap_push_ppg.c -text
 gw/wap_push_ppg.h -text
+gw/wap_push_si_compiler.c -text
+gw/wap_push_si_compiler.h -text
 gw/wapbox.c -text
 gw/wapkannel.conf -text
 gw/wml_compiler.c -text
 gw/wml_compiler.h -text
 gw/wml_definitions.h -text
+gw/xml_definitions.h -text
+gw/xml_shared.c -text
+gw/xml_shared.h -text
 gwlib/accesslog.c -text
 gwlib/accesslog.h -text
 gwlib/cfg.c -text
