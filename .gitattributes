@@ -394,6 +394,7 @@ test/bookmark.txt -text
 test/chartest.html -text
 test/decompile.c -text
 test/decompile.h -text
+test/dlr-receiver.py -text
 test/drive_smpp.c -text
 test/drive_smpp.conf -text
 test/drive_wapbox.c -text
