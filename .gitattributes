@@ -3,7 +3,6 @@
 /COPYING -text
 /ChangeLog -text
 /INSTALL -text
-/Makefile.am -text
 /Makefile.in -text
 /NEWS -text
 /README -text
@@ -15,7 +14,6 @@
 /Rules.mk -text
 /VERSION -text
 /acconfig.h -text
-/aclocal.m4 -text
 /config.h.bot -text
 /config.h.in -text
 /config.h.top -text
@@ -39,7 +37,6 @@ doc/fakewap-packets.txt -text
 doc/release.txt -text
 doc/userguide/Makefile -text
 doc/userguide/userguide.xml -text
-gw/Makefile.am -text
 gw/Makefile.in -text
 gw/alt_charsets.h -text
 gw/bb.h -text
@@ -94,7 +91,6 @@ gw/wtp_send.h -text
 gw/wtp_state-decl.h -text
 gw/wtp_timer.c -text
 gw/wtp_timer.h -text
-gwlib/Makefile.am -text
 gwlib/Makefile.in -text
 gwlib/conffile.c -text
 gwlib/conffile.h -text
@@ -121,7 +117,6 @@ gwlib/utils.h -text
 /missing -text
 /mkinstalldirs -text
 /stamp-h.in -text
-test/Makefile.am -text
 test/Makefile.in -text
 test/chartest.html -text
 test/fake.conf -text
