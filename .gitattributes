@@ -68,6 +68,7 @@ doc/arch/wap-session.fig -text
 doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
+doc/kannel.conf -text
 doc/release.txt -text
 doc/userguide/images/11-1.png -text svneol=unset#unset
 doc/userguide/images/11-3.png -text svneol=unset#unset
