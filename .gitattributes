@@ -311,6 +311,9 @@ gwlib/date.c -text
 gwlib/date.h -text
 gwlib/dbpool.c -text
 gwlib/dbpool.h -text
+gwlib/dbpool_mysql.c -text
+gwlib/dbpool_oracle.c -text
+gwlib/dbpool_p.h -text
 gwlib/dict.c -text
 gwlib/dict.h -text
 gwlib/fdset.c -text
