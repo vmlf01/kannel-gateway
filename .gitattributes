@@ -20,6 +20,7 @@ checks/test_dates -text
 /config.h.in -text
 /configure -text
 /configure.in -text
+contrib/fortune.cgi -text
 contrib/html2wml.pl -text
 contrib/php-admin/README -text
 contrib/php-admin/admin.php -text
@@ -29,6 +30,9 @@ contrib/php-admin/index.html -text
 contrib/php-admin/sendota.php -text
 contrib/php-admin/sendsms.php -text
 contrib/php-admin/sendvcard.php -text
+contrib/ping.cgi -text
+contrib/sendsms -text
+contrib/smstomail.cgi -text
 debian/changelog -text
 debian/conffiles -text
 debian/control -text
