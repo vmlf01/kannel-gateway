@@ -104,6 +104,7 @@ doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
 doc/kannel.conf -text
+doc/modems.conf -text
 doc/release.txt -text
 doc/userguide/sms-gateway.fig -text
 doc/userguide/userguide.xml -text
