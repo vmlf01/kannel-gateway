@@ -34,7 +34,6 @@ checks/check_sendsms.sh -text
 checks/check_smpp.sh -text
 checks/test_dates -text
 /config.guess -text
-/config.h.in -text
 /config.sub -text
 /configure -text
 /configure.in -text
@@ -187,6 +186,7 @@ doc/wtls/fig7o.png -text svneol=unset#unset
 doc/wtls/fig8o.png -text svneol=unset#unset
 doc/wtls/fig9o.png -text svneol=unset#unset
 doc/wtls/wtls.xml -text
+/gw-config.h.in -text
 gw/alt_charsets.h -text
 gw/bb.h -text
 gw/bb_boxc.c -text
