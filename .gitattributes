@@ -439,6 +439,7 @@ test/test_pap.c -text
 test/test_pcre.c -text
 test/test_pdu.c -text
 test/test_ppg.c -text
+test/test_prioqueue.c -text
 test/test_radius_acct.c -text
 test/test_radius_pdu.c -text
 test/test_regex.c -text
