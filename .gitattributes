@@ -59,7 +59,6 @@ doc/arch/arch-internals.xml -text
 doc/arch/arch-requirements.xml -text
 doc/arch/arch-smsbox.xml -text
 doc/arch/arch-wapbox.xml -text
-doc/arch/arch.xml -text
 doc/arch/wapbox-arch.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
