@@ -128,6 +128,7 @@ test/test_msg.c -text
 test/test_wml.c -text
 test/udp_send.c -text
 test/wapbox_feeder.c -text
+test/wml_tester.c -text
 utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
 utils/makedist -text
