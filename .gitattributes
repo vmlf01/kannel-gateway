@@ -139,6 +139,7 @@ gw/msg.h -text
 gw/numhash.c -text
 gw/numhash.h -text
 gw/other_smskannel.conf -text
+gw/pushkannel.conf -text
 gw/shared.c -text
 gw/shared.h -text
 gw/smpp_pdu.c -text
