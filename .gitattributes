@@ -135,6 +135,8 @@ gw/wtp_send.h -text
 gw/wtp_state-decl.h -text
 gw/wtp_tid.c -text
 gw/wtp_tid.h -text
+gwlib/accesslog.c -text
+gwlib/accesslog.h -text
 gwlib/charset.c -text
 gwlib/charset.h -text
 gwlib/conffile.c -text
