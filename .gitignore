@@ -2,6 +2,7 @@
 /Makefile
 checks/check_counter
 checks/check_list
+checks/check_octstr
 /config.cache
 /config.h
 /config.log
