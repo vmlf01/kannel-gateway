@@ -29,6 +29,7 @@ debian/copyright -text
 debian/docs -text
 debian/init -text
 debian/kannel.conf -text
+debian/postinst -text
 debian/rules -text
 doc/CodingStyle -text
 doc/TESTCASES -text
