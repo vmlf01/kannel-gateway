@@ -356,6 +356,12 @@ gwlib/xmlrpc.h -text
 /install-sh -text
 /missing -text
 /mkinstalldirs -text
+radius/radius_acct.c -text
+radius/radius_acct.h -text
+radius/radius_attributes.def -text
+radius/radius_pdu.c -text
+radius/radius_pdu.def -text
+radius/radius_pdu.h -text
 solaris/copyright -text
 solaris/etc/kannel.conf -text
 solaris/mk-solaris-package.sh -text
