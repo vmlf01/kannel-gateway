@@ -59,8 +59,6 @@ gw/bb_smsc.c -text
 gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
-gw/cgi.c -text
-gw/cgi.h -text
 gw/control.html -text
 gw/html.c -text
 gw/html.h -text
