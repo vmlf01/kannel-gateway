@@ -5,7 +5,6 @@
 /INSTALL -text
 /Makefile.in -text
 /NEWS -text
-/NEWS.devel -text
 /README -text
 /README.docbook -text
 /README.src -text
