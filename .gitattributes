@@ -181,6 +181,7 @@ gwlib/octstr.c -text
 gwlib/octstr.h -text
 gwlib/parse.c -text
 gwlib/parse.h -text
+gwlib/pki.c -text
 gwlib/protected.c -text
 gwlib/protected.h -text
 gwlib/semaphore.c -text
