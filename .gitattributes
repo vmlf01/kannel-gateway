@@ -1,6 +1,7 @@
 * text=auto !eol
 /ChangeLog -text
 /Makefile -text
+/Release-0.1 -text
 /VERSION -text
 /alt_charsets.h -text
 /bb.h -text
