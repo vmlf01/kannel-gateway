@@ -192,6 +192,7 @@ gw/smsc/smasi_pdu.h -text
 gw/smsc/smpp_pdu.c -text
 gw/smsc/smpp_pdu.def -text
 gw/smsc/smpp_pdu.h -text
+gw/smsc/smpp_pdu_opt.def -text
 gw/smsc/smsc.c -text
 gw/smsc/smsc.h -text
 gw/smsc/smsc_at.c -text
