@@ -22,6 +22,7 @@ gw/bb_core
 gw/bearerbox
 gw/smsbox
 gw/wapbox
+test/decompile
 test/drive_wapbox
 test/fakesmsc
 test/fakewap
@@ -36,6 +37,7 @@ test/test_msg
 test/test_pdu
 test/test_udp
 test/test_urltrans
+test/test_wakeup
 test/test_wml
 test/udp_send
 test/wapbox_feeder
