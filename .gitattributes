@@ -120,6 +120,8 @@ gwlib/gwmem-native.c -text
 gwlib/gwmem.h -text
 gwlib/gwstr.c -text
 gwlib/gwstr.h -text
+gwlib/gwthread-pthread.c -text
+gwlib/gwthread.h -text
 gwlib/http2.c -text
 gwlib/http2.h -text
 gwlib/list.c -text
