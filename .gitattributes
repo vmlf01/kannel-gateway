@@ -15,6 +15,7 @@
 /config.h -text
 /csdr.c -text
 /csdr.h -text
+/fake.conf -text
 /fakesmsc.c -text
 /html.c -text
 /html.h -text
