@@ -126,6 +126,7 @@ gw/bb_store.c -text
 gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
+gw/cert.pem -text
 gw/control.html -text
 gw/dlr.c -text
 gw/dlr.h -text
@@ -136,6 +137,7 @@ gw/heartbeat.h -text
 gw/html.c -text
 gw/html.h -text
 gw/kannel.8 -text
+gw/key.pem -text
 gw/msg-decl.h -text
 gw/msg.c -text
 gw/msg.h -text
@@ -170,6 +172,7 @@ gw/smsc_wrapper.c -text
 gw/smscconn.c -text
 gw/smscconn.h -text
 gw/smscconn_p.h -text
+gw/smskannel-ssl.conf -text
 gw/smskannel.conf -text
 gw/urltrans.c -text
 gw/urltrans.h -text
