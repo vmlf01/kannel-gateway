@@ -34,7 +34,9 @@ checks/check_ppg.sh -text
 checks/check_sendsms.sh -text
 checks/check_smpp.sh -text
 checks/test_dates -text
+/config.guess -text
 /config.h.in -text
+/config.sub -text
 /configure -text
 /configure.in -text
 contrib/fortune.cgi -text
