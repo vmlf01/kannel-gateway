@@ -4,6 +4,7 @@
 /Makefile -text
 /README.src -text
 /Release-0.1 -text
+/Rules.mk -text
 /VERSION -text
 doc/CodingStyle -text
 doc/TESTCASES -text
