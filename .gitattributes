@@ -51,6 +51,10 @@ contrib/php-admin/sendvcard.php -text
 contrib/ping.cgi -text
 contrib/sendsms -text
 contrib/smstomail.cgi -text
+contrib/web/form.php -text
+contrib/web/index.html -text
+contrib/web/menu.html -text
+contrib/web/sendsms.php -text
 debian/changelog -text
 debian/conffiles -text
 debian/control -text
