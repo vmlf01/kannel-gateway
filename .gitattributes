@@ -104,6 +104,9 @@ gw/wsp-method-state.h -text
 gw/wsp-session-machine.h -text
 gw/wsp-session-state.h -text
 gw/wsp-session.c -text
+gw/wsp-strings.c -text
+gw/wsp-strings.def -text
+gw/wsp-strings.h -text
 gw/wsp-unit.c -text
 gw/wsp.c -text
 gw/wsp.h -text
