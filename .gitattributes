@@ -360,6 +360,7 @@ utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
 utils/accesslog_parser.pl -text
 utils/attgetopt.c -text
+utils/build-cygwin-package -text
 utils/changelog-report -text
 utils/chlog-stats -text
 utils/daily-patch -text
