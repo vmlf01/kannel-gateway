@@ -108,6 +108,8 @@ gwlib/gwstr.c -text
 gwlib/gwstr.h -text
 gwlib/http.c -text
 gwlib/http.h -text
+gwlib/list.c -text
+gwlib/list.h -text
 gwlib/log.c -text
 gwlib/log.h -text
 gwlib/octstr.c -text
@@ -131,6 +133,7 @@ test/sample.conf -text
 test/sample.smsconf -text
 test/sample.wapconf -text
 test/simple.smsconf -text
+test/test_list.c -text
 test/test_msg.c -text
 test/test_wml.c -text
 test/udp_send.c -text
