@@ -10,6 +10,8 @@
 /README.src -text
 /README.wmlscript -text
 /VERSION -text
+checks/check_counter.c -text
+checks/check_fakewap.sh -text
 /config.h.in -text
 /configure -text
 /configure.in -text
@@ -209,6 +211,7 @@ utils/kannel-log-summary -text
 utils/kannel-nag -text
 utils/makedist -text
 utils/pixmapgen.pl -text
+utils/run-checks -text
 utils/run_kannel_box.c -text
 utils/seewbmp.c -text
 utils/start-stop-daemon.8 -text
