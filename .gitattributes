@@ -181,6 +181,8 @@ gwlib/thread.c -text
 gwlib/thread.h -text
 gwlib/utils.c -text
 gwlib/utils.h -text
+gwlib/xmlrpc.c -text
+gwlib/xmlrpc.h -text
 /install-sh -text
 /missing -text
 /mkinstalldirs -text
