@@ -3,6 +3,7 @@
 /LICENSE -text
 /Makefile -text
 /README -text
+/README.docbook -text
 /README.src -text
 /Release-0.1 -text
 /Rules.mk -text
@@ -61,6 +62,8 @@ gw/urltrans.h -text
 gw/wapbox.c -text
 gw/wapbox.h -text
 gw/wapbox.wapconf -text
+gw/wml.c -text
+gw/wml.h -text
 gw/wsp.c -text
 gw/wsp.h -text
 gw/wsp_events-decl.h -text
@@ -100,6 +103,7 @@ test/fakesmsc.c -text
 test/html-test-1 -text
 test/simple.smsconf -text
 test/test_msg.c -text
+test/test_wml.c -text
 test/udp_send.c -text
 test/wapbox_feeder.c -text
 utils/OTAbitmap.c -text
