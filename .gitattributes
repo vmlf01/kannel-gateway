@@ -226,6 +226,7 @@ test/test_msg.c -text
 test/test_octstr_format.c -text
 test/test_octstr_immutables.c -text
 test/test_pdu.c -text
+test/test_ppg.c -text
 test/test_smsc.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
