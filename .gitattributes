@@ -142,6 +142,7 @@ test/wml_tester.c -text
 utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
 utils/kannel-init.d -text
+utils/kannel-nag -text
 utils/makedist -text
 utils/pixmapgen.pl -text
 utils/run_kannel_box.c -text
