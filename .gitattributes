@@ -60,6 +60,8 @@ gw/html.h -text
 gw/msg-decl.h -text
 gw/msg.c -text
 gw/msg.h -text
+gw/numhash.c -text
+gw/numhash.h -text
 gw/smsbox.c -text
 gw/smsbox_req.c -text
 gw/smsbox_req.h -text
