@@ -123,7 +123,7 @@ test/test_msg
 test/test_octstr_format
 test/test_octstr_immutables
 test/test_ota
-test/test_paptest_xmlrpc
+test/test_pap
 test/test_pdu
 test/test_ppg
 test/test_si
@@ -133,6 +133,7 @@ test/test_udp
 test/test_urltrans
 test/test_wakeup
 test/test_wml
+test/test_xmlrpc
 test/timestamp
 test/udp_send
 test/udpfeed
