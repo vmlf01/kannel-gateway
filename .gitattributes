@@ -144,6 +144,7 @@ utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
 utils/changelog-report -text
 utils/daily-patch -text
+utils/getopt.h -text
 utils/kannel-init.d -text
 utils/kannel-nag -text
 utils/makedist -text
