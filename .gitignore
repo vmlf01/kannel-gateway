@@ -9,6 +9,8 @@ gw/smsbox
 gw/wapbox
 test/fakesmsc
 test/fakewap
+test/test_counter
+test/test_http
 test/test_list
 test/test_msg
 test/test_wml

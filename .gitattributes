@@ -97,6 +97,8 @@ gw/wtp_timer.c -text
 gw/wtp_timer.h -text
 gwlib/conffile.c -text
 gwlib/conffile.h -text
+gwlib/counter.c -text
+gwlib/counter.h -text
 gwlib/getnameinfo.h -text
 gwlib/gwassert.h -text
 gwlib/gwlib.h -text
@@ -132,6 +134,7 @@ test/sample.conf -text
 test/sample.smsconf -text
 test/sample.wapconf -text
 test/simple.smsconf -text
+test/test_counter.c -text
 test/test_http.c -text
 test/test_list.c -text
 test/test_msg.c -text
@@ -140,6 +143,7 @@ test/wapbox_feeder.c -text
 test/wml_tester.c -text
 utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
+utils/attgetopt.c -text
 utils/changelog-report -text
 utils/daily-patch -text
 utils/kannel-init.d -text
