@@ -395,6 +395,7 @@ test/hello.wml -text
 test/html-test-1 -text
 test/http2-test-urls -text
 test/iptestppg.txt -text
+test/mime-multipart.txt -text
 test/run-http2-tests.sh -text
 test/settings4.txt -text
 test/sl.txt -text
