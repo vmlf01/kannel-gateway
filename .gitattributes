@@ -22,6 +22,7 @@ checks/check_fakesmsc.sh -text
 checks/check_fakewap.sh -text
 checks/check_headers.sh -text
 checks/check_http.sh -text
+checks/check_httpsmsc_kannel.sh -text
 checks/check_ipcheck.c -text
 checks/check_list.c -text
 checks/check_octstr.c -text
@@ -92,6 +93,7 @@ gw/msg.c -text
 gw/msg.h -text
 gw/numhash.c -text
 gw/numhash.h -text
+gw/other_smskannel.conf -text
 gw/shared.c -text
 gw/shared.h -text
 gw/smpp_pdu.c -text
