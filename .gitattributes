@@ -60,7 +60,11 @@ gw/urltrans.c -text
 gw/urltrans.h -text
 gw/wapbox.c -text
 gw/wapbox.wapconf -text
+gw/wsp.c -text
+gw/wsp.h -text
 gw/wsp_events-decl.h -text
+gw/wsp_machine-decl.h -text
+gw/wsp_state-decl.h -text
 gw/wtp.c -text
 gw/wtp.h -text
 gw/wtp_events-decl.h -text
