@@ -67,6 +67,7 @@ gw/smsc.h -text
 gw/smsc_cimd.c -text
 gw/smsc_emi.c -text
 gw/smsc_fake.c -text
+gw/smsc_interface.def -text
 gw/smsc_p.h -text
 gw/smsc_smpp.c -text
 gw/smsc_smpp.h -text
