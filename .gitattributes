@@ -444,6 +444,7 @@ utils/changelog-report -text
 utils/chlog-stats -text
 utils/daily-patch -text
 utils/find-long-lines -text
+utils/foobar-config.sh -text
 utils/kannel-init.d -text
 utils/kannel-log-summary -text
 utils/kannel-nag -text
