@@ -29,8 +29,7 @@ test/fakewap
 test/test_cimd2
 test/test_counter
 test/test_http
-test/test_http2
-test/test_http2_server
+test/test_http_server
 test/test_list
 test/test_mem
 test/test_msg
