@@ -410,6 +410,7 @@ test/test_http_server.c -text
 test/test_md5.c -text
 test/test_mem.c -text
 test/test_mime.c -text
+test/test_mime_multipart.c -text
 test/test_msg.c -text
 test/test_octstr_dump.c -text
 test/test_octstr_format.c -text
