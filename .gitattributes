@@ -112,7 +112,6 @@ gw/smsc_emi.c -text
 gw/smsc_emi2.c -text
 gw/smsc_fake.c -text
 gw/smsc_http.c -text
-gw/smsc_interface.def -text
 gw/smsc_ois.c -text
 gw/smsc_p.h -text
 gw/smsc_sema.c -text
