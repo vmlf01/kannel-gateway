@@ -142,6 +142,7 @@ utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
 utils/makedist -text
 utils/pixmapgen.pl -text
+utils/run_kannel_box.c -text
 utils/seewbmp.c -text
 utils/wbmp.c -text
 utils/wbmp.h -text
