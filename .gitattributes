@@ -7,7 +7,6 @@
 /NEWS -text
 /README -text
 /STATUS -text
-/TODO -text
 /VERSION -text
 /aclocal.m4 -text
 benchmarks/bench_http.sh -text
