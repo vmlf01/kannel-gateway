@@ -114,6 +114,8 @@ gw/utf8map_win1253.h -text
 gw/utf8map_win1257.h -text
 gw/wap-appl.c -text
 gw/wap-appl.h -text
+gw/wap_push_ota.c -text
+gw/wap_push_ota.h -text
 gw/wapbox.c -text
 gw/wapkannel.conf -text
 gw/wml_compiler.c -text
@@ -249,6 +251,8 @@ wap/wsp_push_client_machine.def -text
 wap/wsp_push_client_states.def -text
 wap/wsp_server_method_machine.def -text
 wap/wsp_server_method_states.def -text
+wap/wsp_server_push_machine.def -text
+wap/wsp_server_push_states.def -text
 wap/wsp_server_session_machine.def -text
 wap/wsp_server_session_states.def -text
 wap/wsp_session.c -text
