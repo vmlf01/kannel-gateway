@@ -131,6 +131,7 @@ gw/wtp.h -text
 gw/wtp_init.c -text
 gw/wtp_init.h -text
 gw/wtp_init_machine-decl.h -text
+gw/wtp_init_state-decl.h -text
 gw/wtp_pdu.c -text
 gw/wtp_pdu.def -text
 gw/wtp_pdu.h -text
