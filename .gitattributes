@@ -327,6 +327,8 @@ gwlib/dict.h -text
 gwlib/fdset.c -text
 gwlib/fdset.h -text
 gwlib/gw-getopt.h -text
+gwlib/gw-rwlock.c -text
+gwlib/gw-rwlock.h -text
 gwlib/gw_uuid.c -text
 gwlib/gw_uuid.h -text
 gwlib/gw_uuid_types.h.in -text
