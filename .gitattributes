@@ -6,7 +6,6 @@
 /Makefile.in -text
 /NEWS -text
 /README -text
-/README.autoconf -text
 /README.docbook -text
 /README.src -text
 /README.wmlscript -text
@@ -107,7 +106,8 @@ gwlib/counter.h -text
 gwlib/getnameinfo.h -text
 gwlib/gwassert.h -text
 gwlib/gwlib.h -text
-gwlib/gwmem.c -text
+gwlib/gwmem-check.c -text
+gwlib/gwmem-native.c -text
 gwlib/gwmem.h -text
 gwlib/gwstr.c -text
 gwlib/gwstr.h -text
