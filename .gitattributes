@@ -147,6 +147,8 @@ gw/numhash.c -text
 gw/numhash.h -text
 gw/ota_compiler.c -text
 gw/ota_compiler.h -text
+gw/ota_prov.c -text
+gw/ota_prov.h -text
 gw/other_smskannel.conf -text
 gw/pushkannel.conf -text
 gw/settings.dtd -text
