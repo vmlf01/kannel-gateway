@@ -163,6 +163,7 @@ doc/arch/wap-session.fig -text
 doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
 doc/examples/dlr-mysql.conf -text
+doc/examples/dlr-oracle.conf -text
 doc/examples/dlr-sdb.conf -text
 doc/examples/kannel.conf -text
 doc/examples/modems.conf -text
@@ -202,6 +203,7 @@ gw/dlr.c -text
 gw/dlr.h -text
 gw/dlr_mem.c -text
 gw/dlr_mysql.c -text
+gw/dlr_oracle.c -text
 gw/dlr_p.h -text
 gw/dlr_sdb.c -text
 gw/heartbeat.c -text
