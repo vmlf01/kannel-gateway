@@ -58,10 +58,16 @@ doc/arch/arch.ps
 doc/arch/arch.rtf
 doc/arch/bearerbox-arch.png
 doc/arch/bearerbox-arch.ps
+doc/arch/conf-push-session.png
+doc/arch/conf-push-session.ps
 doc/arch/external-interfaces.png
 doc/arch/external-interfaces.ps
 doc/arch/kannel-boxes.png
 doc/arch/kannel-boxes.ps
+doc/arch/kannel-push-boxes.png
+doc/arch/kannel-push-boxes.ps
+doc/arch/pushbox-threads.png
+doc/arch/pushbox-threads.ps
 doc/arch/wap-arch.png
 doc/arch/wap-arch.ps
 doc/arch/wap-session.png
