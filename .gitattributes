@@ -103,6 +103,8 @@ gw/wap-appl.c -text
 gw/wap-events-def.h -text
 gw/wap-events.c -text
 gw/wap-events.h -text
+gw/wap_addr.c -text
+gw/wap_addr.h -text
 gw/wapbox.c -text
 gw/wapbox.h -text
 gw/wapkannel.conf -text
