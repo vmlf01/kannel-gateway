@@ -189,6 +189,7 @@ doc/wtls/wtls.xml -text
 /gw-config.h.in -text
 gw/alt_charsets.h -text
 gw/bb.h -text
+gw/bb_alog.c -text
 gw/bb_boxc.c -text
 gw/bb_http.c -text
 gw/bb_smscconn.c -text
