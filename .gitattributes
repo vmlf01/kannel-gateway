@@ -157,6 +157,8 @@ gwlib/log.c -text
 gwlib/log.h -text
 gwlib/octstr.c -text
 gwlib/octstr.h -text
+gwlib/parse.c -text
+gwlib/parse.h -text
 gwlib/protected.c -text
 gwlib/protected.h -text
 gwlib/socket.c -text
