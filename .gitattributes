@@ -14,6 +14,7 @@ checks/check_counter.c -text
 checks/check_fakewap.sh -text
 checks/check_http.sh -text
 checks/check_list.c -text
+checks/check_octstr.c -text
 /config.h.in -text
 /configure -text
 /configure.in -text
