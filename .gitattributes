@@ -42,6 +42,8 @@ checks/test_dates -text
 /configure.in -text
 contrib/fortune.cgi -text
 contrib/html2wml.pl -text
+contrib/mon/README -text
+contrib/mon/kannel.monitor -text
 contrib/php-admin/README -text
 contrib/php-admin/admin.php -text
 contrib/php-admin/config.inc -text
