@@ -144,6 +144,7 @@ test/test_list.c -text
 test/test_mem.c -text
 test/test_msg.c -text
 test/test_udp.c -text
+test/test_urltrans.c -text
 test/udp_send.c -text
 test/wapbox_feeder.c -text
 test/wml_tester.c -text
