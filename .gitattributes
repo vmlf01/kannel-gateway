@@ -108,11 +108,6 @@ gw/smscconn_p.h -text
 gw/smskannel.conf -text
 gw/urltrans.c -text
 gw/urltrans.h -text
-gw/utf8map_iso8859-7.h -text
-gw/utf8map_koi8r.h -text
-gw/utf8map_win1251.h -text
-gw/utf8map_win1253.h -text
-gw/utf8map_win1257.h -text
 gw/wap-appl.c -text
 gw/wap-appl.h -text
 gw/wap_push_ota.c -text
