@@ -22,6 +22,9 @@
 /html.h -text
 /http.c -text
 /http.h -text
+/msg-decl.h -text
+/msg.c -text
+/msg.h -text
 /octstr.c -text
 /octstr.h -text
 /simple.conf -text
