@@ -86,6 +86,8 @@ gw/smsc_sema.h -text
 gw/smsc_smpp.c -text
 gw/smsc_smpp.h -text
 gw/smskannel.conf -text
+gw/timers.c -text
+gw/timers.h -text
 gw/urltrans.c -text
 gw/urltrans.h -text
 gw/utf8map_iso8859-7.h -text
@@ -132,8 +134,6 @@ gw/wtp_send.h -text
 gw/wtp_state-decl.h -text
 gw/wtp_tid.c -text
 gw/wtp_tid.h -text
-gw/wtp_timer.c -text
-gw/wtp_timer.h -text
 gwlib/charset.c -text
 gwlib/charset.h -text
 gwlib/conffile.c -text
