@@ -23,6 +23,7 @@ test/fakesmsc
 test/fakewap
 test/test_counter
 test/test_http
+test/test_http2
 test/test_list
 test/test_mem
 test/test_msg

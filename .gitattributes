@@ -113,6 +113,8 @@ gwlib/gwstr.c -text
 gwlib/gwstr.h -text
 gwlib/http.c -text
 gwlib/http.h -text
+gwlib/http2.c -text
+gwlib/http2.h -text
 gwlib/list.c -text
 gwlib/list.h -text
 gwlib/log.c -text
@@ -133,12 +135,15 @@ test/fake.conf -text
 test/fakesmsc.c -text
 test/fakewap.c -text
 test/html-test-1 -text
+test/http2-test-urls -text
+test/run-http2-tests -text
 test/sample.conf -text
 test/sample.smsconf -text
 test/sample.wapconf -text
 test/simple.smsconf -text
 test/test_counter.c -text
 test/test_http.c -text
+test/test_http2.c -text
 test/test_list.c -text
 test/test_mem.c -text
 test/test_msg.c -text
