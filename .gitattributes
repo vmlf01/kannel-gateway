@@ -22,7 +22,6 @@
 /configure.in -text
 doc/CodingStyle -text
 doc/TESTCASES -text
-doc/arch/Makefile -text
 doc/arch/arch-bbox.fig -text
 doc/arch/arch-bearerbox.xml -text
 doc/arch/arch-components.fig -text
@@ -36,7 +35,6 @@ doc/arch/arch-wapbox.xml -text
 doc/arch/arch.xml -text
 doc/fakewap-packets.txt -text
 doc/release.txt -text
-doc/userguide/Makefile -text
 doc/userguide/userguide.xml -text
 gw/alt_charsets.h -text
 gw/bb.h -text
