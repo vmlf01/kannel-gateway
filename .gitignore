@@ -15,9 +15,11 @@ checks/check_ipcheck
 checks/check_list
 checks/check_octstr
 /config.cache
+/config.guess
 /config.h
 /config.log
 /config.status
+/config.sub
 debian/*.debhelper
 debian/*.substvars
 debian/files
