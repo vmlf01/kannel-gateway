@@ -58,7 +58,7 @@ gw/smsc_smpp.h -text
 gw/urltrans.c -text
 gw/urltrans.h -text
 gw/wapbox.c -text
-gw/wapbox.conf -text
+gw/wapbox.wapconf -text
 gw/wsp_events-decl.h -text
 gw/wtp.c -text
 gw/wtp.h -text
