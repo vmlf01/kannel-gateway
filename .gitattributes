@@ -145,8 +145,11 @@ gw/msg.c -text
 gw/msg.h -text
 gw/numhash.c -text
 gw/numhash.h -text
+gw/ota_compiler.c -text
+gw/ota_compiler.h -text
 gw/other_smskannel.conf -text
 gw/pushkannel.conf -text
+gw/settings.dtd -text
 gw/shared.c -text
 gw/shared.h -text
 gw/smpp_pdu.c -text
@@ -271,6 +274,7 @@ solaris/mk-solaris-package.sh -text
 solaris/pkginfo -text
 solaris/prototype.tmpl -text
 solaris/readme.txt -text
+test/bookmark.txt -text
 test/chartest.html -text
 test/decompile.c -text
 test/decompile.h -text
@@ -285,6 +289,7 @@ test/html-test-1 -text
 test/http2-test-urls -text
 test/iptestppg.txt -text
 test/run-http2-tests -text
+test/settings4.txt -text
 test/sl.txt -text
 test/smstestppg.txt -text
 test/test_cfg.c -text
@@ -298,6 +303,8 @@ test/test_mime.c -text
 test/test_msg.c -text
 test/test_octstr_format.c -text
 test/test_octstr_immutables.c -text
+test/test_ota.c -text
+test/test_pap.c -text
 test/test_pdu.c -text
 test/test_ppg.c -text
 test/test_si.c -text

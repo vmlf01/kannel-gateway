@@ -122,6 +122,8 @@ test/test_mime
 test/test_msg
 test/test_octstr_format
 test/test_octstr_immutables
+test/test_ota
+test/test_pap
 test/test_pdu
 test/test_ppg
 test/test_si
