@@ -91,6 +91,8 @@ gw/wapkannel.conf -text
 gw/wml_compiler.c -text
 gw/wml_compiler.h -text
 gw/wml_definitions.h -text
+gw/wsp-session.c -text
+gw/wsp-unit.c -text
 gw/wsp.c -text
 gw/wsp.h -text
 gw/wsp_headers.c -text
