@@ -34,6 +34,7 @@ doc/arch/arch-requirements.xml -text
 doc/arch/arch-smsbox.xml -text
 doc/arch/arch-wapbox.xml -text
 doc/arch/arch.xml -text
+doc/dialup.txt -text
 doc/fakewap-packets.txt -text
 doc/release.txt -text
 doc/userguide/userguide.xml -text
