@@ -7,6 +7,14 @@
 /NEWS -text
 /README -text
 /VERSION -text
+benchmarks/bench_http.sh -text
+benchmarks/bench_http.txt -text
+benchmarks/bench_sms.conf -text
+benchmarks/bench_sms.sh -text
+benchmarks/bench_sms.txt -text
+benchmarks/report-begin.txt -text
+benchmarks/report-end.txt -text
+benchmarks/run-benchmarks -text
 checks/check_counter.c -text
 checks/check_date.c -text
 checks/check_fakesmsc.sh -text
@@ -201,9 +209,11 @@ test/test_msg.c -text
 test/test_octstr_format.c -text
 test/test_octstr_immutables.c -text
 test/test_pdu.c -text
+test/test_smsc.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
 test/test_wakeup.c -text
+test/timestamp.c -text
 test/udpfeed.c -text
 test/wml_tester.c -text
 utils/OTAbitmap.c -text
