@@ -139,6 +139,7 @@ utils/wbmp.h -text
 wmlscript/lexer.txt -text
 wmlscript/make-op-table.in -text
 wmlscript/wmlsc.c -text
+wmlscript/wmlsdasm.c -text
 wmlscript/ws.c -text
 wmlscript/ws.h -text
 wmlscript/wsalloc.c -text
@@ -160,6 +161,8 @@ wmlscript/wsgram.h -text
 wmlscript/wsgram.y -text
 wmlscript/wshash.c -text
 wmlscript/wshash.h -text
+wmlscript/wsieee754.c -text
+wmlscript/wsieee754.h -text
 wmlscript/wsint.h -text
 wmlscript/wslexer.c -text
 wmlscript/wsopcodes.h -text
