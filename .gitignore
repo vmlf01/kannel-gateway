@@ -40,6 +40,7 @@ test/test_urltrans
 test/test_wakeup
 test/test_wml
 test/udp_send
+test/udpfeed
 test/wapbox_feeder
 test/wml_tester
 utils/run_kannel_box
