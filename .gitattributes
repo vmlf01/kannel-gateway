@@ -74,8 +74,6 @@ gw/urltrans.c -text
 gw/urltrans.h -text
 gw/wapbox.c -text
 gw/wapbox.h -text
-gw/wml.c -text
-gw/wml.h -text
 gw/wml_compiler.c -text
 gw/wml_compiler.h -text
 gw/wsp.c -text
@@ -137,7 +135,6 @@ test/simple.smsconf -text
 test/test_http.c -text
 test/test_list.c -text
 test/test_msg.c -text
-test/test_wml.c -text
 test/udp_send.c -text
 test/wapbox_feeder.c -text
 test/wml_tester.c -text
