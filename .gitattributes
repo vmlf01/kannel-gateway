@@ -157,6 +157,7 @@ gwlib/counter.c -text
 gwlib/counter.h -text
 gwlib/date.c -text
 gwlib/date.h -text
+gwlib/gw-getopt.h -text
 gwlib/gwassert.h -text
 gwlib/gwlib.c -text
 gwlib/gwlib.h -text
