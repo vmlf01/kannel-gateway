@@ -250,7 +250,6 @@ gwlib/xmlrpc.h -text
 /install-sh -text
 /missing -text
 /mkinstalldirs -text
-/readme2 -text
 solaris/copyright -text
 solaris/etc/kannel.conf -text
 solaris/mk-solaris-package.sh -text
