@@ -14,6 +14,14 @@
 /config.h.in -text
 /configure -text
 /configure.in -text
+debian/changelog -text
+debian/control -text
+debian/copyright -text
+debian/docs -text
+debian/init -text
+debian/kannel.conf -text
+debian/kannel.wapconf -text
+debian/rules -text
 doc/CodingStyle -text
 doc/TESTCASES -text
 doc/arch/arch-bbox.fig -text
@@ -135,6 +143,7 @@ test/test_http.c -text
 test/test_list.c -text
 test/test_mem.c -text
 test/test_msg.c -text
+test/test_udp.c -text
 test/udp_send.c -text
 test/wapbox_feeder.c -text
 test/wml_tester.c -text
