@@ -215,6 +215,7 @@ utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
 utils/attgetopt.c -text
 utils/changelog-report -text
+utils/chlog-stats -text
 utils/daily-patch -text
 utils/find-long-lines -text
 utils/kannel-init.d -text
