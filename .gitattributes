@@ -486,6 +486,8 @@ utils/seewbmp.c -text
 utils/source-stats -text
 utils/start-stop-daemon.8 -text
 utils/start-stop-daemon.c -text
+utils/update-license-text.sh -text
+utils/update-license.sh -text
 utils/utf8map.pl -text
 utils/vimrc -text
 utils/wbmp.c -text
