@@ -325,6 +325,7 @@ gwlib/gwpoll.c -text
 gwlib/gwpoll.h -text
 gwlib/gwthread-pthread.c -text
 gwlib/gwthread.h -text
+gwlib/html-entities.def -text
 gwlib/http.c -text
 gwlib/http.h -text
 gwlib/list.c -text
