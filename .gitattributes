@@ -43,5 +43,8 @@
 /smsc_smpp.h -text
 /urltrans.c -text
 /urltrans.h -text
+/wapbox.c -text
+/wapbox.conf -text
+/wapbox_feeder.c -text
 /wapitlib.c -text
 /wapitlib.h -text
