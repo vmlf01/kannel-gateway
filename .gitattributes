@@ -318,6 +318,7 @@ gwlib/dbpool.h -text
 gwlib/dbpool_mysql.c -text
 gwlib/dbpool_oracle.c -text
 gwlib/dbpool_p.h -text
+gwlib/dbpool_pgsql.c -text
 gwlib/dbpool_sdb.c -text
 gwlib/dbpool_sqlite.c -text
 gwlib/dict.c -text
