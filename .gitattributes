@@ -118,6 +118,7 @@ gwlib/utils.h -text
 test/chartest.html -text
 test/fake.conf -text
 test/fakesmsc.c -text
+test/fakewap.c -text
 test/html-test-1 -text
 test/simple.smsconf -text
 test/test_msg.c -text
