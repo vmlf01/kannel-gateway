@@ -47,14 +47,10 @@ gw/alt_charsets.h -text
 gw/bb.h -text
 gw/bb_boxc.c -text
 gw/bb_http.c -text
-gw/bb_msg.c -text
-gw/bb_msg.h -text
 gw/bb_smsc.c -text
 gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
-gw/boxc.c -text
-gw/boxc.h -text
 gw/cgi.c -text
 gw/cgi.h -text
 gw/control.html -text
@@ -84,8 +80,6 @@ gw/urltrans.h -text
 gw/wapbox.c -text
 gw/wapbox.h -text
 gw/wapkannel.conf -text
-gw/wdp_udp.c -text
-gw/wdp_udp.h -text
 gw/wml_compiler.c -text
 gw/wml_compiler.h -text
 gw/wml_definitions.h -text
