@@ -182,6 +182,7 @@ gwlib/octstr.h -text
 gwlib/parse.c -text
 gwlib/parse.h -text
 gwlib/pki.c -text
+gwlib/pki.h -text
 gwlib/protected.c -text
 gwlib/protected.h -text
 gwlib/semaphore.c -text
@@ -299,6 +300,17 @@ wap/wsp_strings.c -text
 wap/wsp_strings.def -text
 wap/wsp_strings.h -text
 wap/wsp_unit.c -text
+wap/wtls-secmgr.c -text
+wap/wtls.c -text
+wap/wtls.h -text
+wap/wtls_machine-decl.h -text
+wap/wtls_pdu.c -text
+wap/wtls_pdu.h -text
+wap/wtls_pdusupport.c -text
+wap/wtls_pdusupport.h -text
+wap/wtls_state-decl.h -text
+wap/wtls_statesupport.c -text
+wap/wtls_statesupport.h -text
 wap/wtp.c -text
 wap/wtp.h -text
 wap/wtp_init.c -text
