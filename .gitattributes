@@ -56,8 +56,6 @@ gw/kannel.wapconf -text
 gw/msg-decl.h -text
 gw/msg.c -text
 gw/msg.h -text
-gw/sms_msg.c -text
-gw/sms_msg.h -text
 gw/smsbox.c -text
 gw/smsbox_req.c -text
 gw/smsbox_req.h -text
