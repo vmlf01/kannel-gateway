@@ -18,12 +18,12 @@ checks/check_octstr
 /config.h
 /config.log
 /config.status
-debian/.rules.swp
+debian/*.debhelper
+debian/*.substvars
 debian/files
-debian/postinst.debhelper
-debian/postrm.debhelper
-debian/prerm.debhelper
-debian/substvars
+debian/kannel
+debian/kannel-docs
+debian/kannel-extra
 debian/tmp
 /diff
 /diff2
