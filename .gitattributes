@@ -38,7 +38,6 @@ gw/html.h -text
 gw/msg-decl.h -text
 gw/msg.c -text
 gw/msg.h -text
-gw/simple.smsconf -text
 gw/sms_msg.c -text
 gw/sms_msg.h -text
 gw/smsbox.c -text
@@ -75,6 +74,7 @@ test/chartest.html -text
 test/fake.conf -text
 test/fakesmsc.c -text
 test/html-test-1 -text
+test/simple.smsconf -text
 test/test_msg.c -text
 test/wapbox_feeder.c -text
 utils/OTAbitmap.c -text
