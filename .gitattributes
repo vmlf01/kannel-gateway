@@ -101,20 +101,20 @@ doc/release.txt -text
 doc/userguide/sms-gateway.fig -text
 doc/userguide/userguide.xml -text
 doc/userguide/wap-gateway.fig -text
-doc/wtls/fig10o.png -text svneol=unset#unset
-doc/wtls/fig1o.png -text svneol=unset#unset
-doc/wtls/fig2o.png -text svneol=unset#unset
-doc/wtls/fig3o.png -text svneol=unset#unset
-doc/wtls/fig4o.png -text svneol=unset#unset
-doc/wtls/fig4out.png -text svneol=unset#unset
-doc/wtls/fig5o.png -text svneol=unset#unset
-doc/wtls/fig5out.png -text svneol=unset#unset
-doc/wtls/fig6o.png -text svneol=unset#unset
-doc/wtls/fig6out.png -text svneol=unset#unset
-doc/wtls/fig6out1.png -text svneol=unset#unset
-doc/wtls/fig7o.png -text svneol=unset#unset
-doc/wtls/fig8o.png -text svneol=unset#unset
-doc/wtls/fig9o.png -text svneol=unset#unset
+doc/wtls/fig10o.png -text
+doc/wtls/fig1o.png -text
+doc/wtls/fig2o.png -text
+doc/wtls/fig3o.png -text
+doc/wtls/fig4o.png -text
+doc/wtls/fig4out.png -text
+doc/wtls/fig5o.png -text
+doc/wtls/fig5out.png -text
+doc/wtls/fig6o.png -text
+doc/wtls/fig6out.png -text
+doc/wtls/fig6out1.png -text
+doc/wtls/fig7o.png -text
+doc/wtls/fig8o.png -text
+doc/wtls/fig9o.png -text
 doc/wtls/wtls.xml -text
 gw/alt_charsets.h -text
 gw/bb.h -text
