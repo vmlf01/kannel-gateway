@@ -152,7 +152,6 @@ test/fakewap.c -text
 test/html-test-1 -text
 test/http2-test-urls -text
 test/run-http2-tests -text
-test/simple.smsconf -text
 test/test_cimd2.c -text
 test/test_counter.c -text
 test/test_http.c -text
