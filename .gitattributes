@@ -47,7 +47,6 @@ doc/arch/wapbox-arch.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
 doc/release.txt -text
-doc/userguide/newbb.txt -text
 doc/userguide/newconf.txt -text
 doc/userguide/userguide.xml -text
 doc/userguide/wap-gateway.fig -text
