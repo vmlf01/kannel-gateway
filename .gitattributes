@@ -110,6 +110,8 @@ gw/wsp-strings.h -text
 gw/wsp-unit.c -text
 gw/wsp.c -text
 gw/wsp.h -text
+gw/wsp_caps.c -text
+gw/wsp_caps.h -text
 gw/wsp_headers.c -text
 gw/wsp_headers.h -text
 gw/wsp_pdu.c -text
