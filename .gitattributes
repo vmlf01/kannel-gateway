@@ -101,7 +101,6 @@ gw/smsc_p.h -text
 gw/smsc_sema.c -text
 gw/smsc_sema.h -text
 gw/smsc_smpp.c -text
-gw/smsc_smpp.h -text
 gw/smsc_wrapper.c -text
 gw/smscconn.c -text
 gw/smscconn.h -text
