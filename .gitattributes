@@ -252,6 +252,8 @@ gwlib/semaphore.c -text
 gwlib/semaphore.h -text
 gwlib/socket.c -text
 gwlib/socket.h -text
+gwlib/ssl.c -text
+gwlib/ssl.h -text
 gwlib/thread.c -text
 gwlib/thread.h -text
 gwlib/utils.c -text
