@@ -91,6 +91,8 @@ gw/wtp_machine-decl.h -text
 gw/wtp_send.c -text
 gw/wtp_send.h -text
 gw/wtp_state-decl.h -text
+gw/wtp_tid.c -text
+gw/wtp_tid.h -text
 gw/wtp_timer.c -text
 gw/wtp_timer.h -text
 gwlib/conffile.c -text
