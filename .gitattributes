@@ -417,6 +417,7 @@ test/iptestppg.txt -text
 test/mime-multipart.txt -text
 test/run-http2-tests.sh -text
 test/settings4.txt -text
+test/si.txt -text
 test/sl.txt -text
 test/smstestppg.txt -text
 test/test_boxc.c -text
