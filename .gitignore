@@ -23,6 +23,7 @@ gw/wapbox
 test/drive_wapbox
 test/fakesmsc
 test/fakewap
+test/test_cimd2
 test/test_counter
 test/test_http
 test/test_http2
