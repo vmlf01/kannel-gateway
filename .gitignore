@@ -17,6 +17,13 @@ checks/check_octstr
 /config.h
 /config.log
 /config.status
+debian/.rules.swp
+debian/files
+debian/postinst.debhelper
+debian/postrm.debhelper
+debian/prerm.debhelper
+debian/substvars
+debian/tmp
 doc/alligata/11-1.ps
 doc/alligata/11-3.ps
 doc/alligata/11-4.ps
