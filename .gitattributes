@@ -41,6 +41,10 @@ checks/test_dates -text
 /configure.in -text
 contrib/fortune.cgi -text
 contrib/html2wml.pl -text
+contrib/kannel-monitor/index.php -text
+contrib/kannel-monitor/kannel.css -text
+contrib/kannel-monitor/kannel.js -text
+contrib/kannel-monitor/xmlfunc.php -text
 contrib/mon/README -text
 contrib/mon/kannel.monitor -text
 contrib/php-admin/README -text
