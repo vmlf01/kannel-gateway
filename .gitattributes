@@ -59,7 +59,6 @@ debian/postinst -text
 debian/postrm -text
 debian/rules -text
 doc/CodingStyle -text
-doc/TESTCASES -text
 doc/arch/arch.xml -text
 doc/arch/bearerbox-arch.fig -text
 doc/arch/external-interfaces.fig -text
