@@ -335,6 +335,7 @@ test/test_xmlrpc.c -text
 test/testcase.wml -text
 test/timestamp.c -text
 test/udpfeed.c -text
+test/whitelist.txt -text
 test/wml_tester.c -text
 utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
