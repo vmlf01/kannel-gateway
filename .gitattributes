@@ -141,8 +141,6 @@ gwlib/dict.h -text
 gwlib/fdset.c -text
 gwlib/fdset.h -text
 gwlib/gw-getopt.h -text
-gwlib/gw_inet.c -text
-gwlib/gw_inet.h -text
 gwlib/gwassert.h -text
 gwlib/gwlib.c -text
 gwlib/gwlib.h -text
