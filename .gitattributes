@@ -25,6 +25,7 @@ doc/CodingStyle -text
 doc/TESTCASES -text
 doc/arch/arch-bbox.fig -text
 doc/arch/arch-bearerbox.xml -text
+doc/arch/arch-bib.xml -text
 doc/arch/arch-components.fig -text
 doc/arch/arch-externalinterfaces.xml -text
 doc/arch/arch-externals.fig -text
@@ -152,6 +153,8 @@ wmlscript/wserror.c -text
 wmlscript/wserror.h -text
 wmlscript/wsfalloc.c -text
 wmlscript/wsfalloc.h -text
+wmlscript/wsgram.c -text
+wmlscript/wsgram.h -text
 wmlscript/wsgram.y -text
 wmlscript/wshash.c -text
 wmlscript/wshash.h -text
