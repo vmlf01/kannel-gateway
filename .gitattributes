@@ -124,8 +124,12 @@ gw/urltrans.c -text
 gw/urltrans.h -text
 gw/wap-appl.c -text
 gw/wap-appl.h -text
+gw/wap_ppg_push_machine.def -text
+gw/wap_ppg_session_machine.def -text
 gw/wap_push_ota.c -text
 gw/wap_push_ota.h -text
+gw/wap_push_pap.c -text
+gw/wap_push_pap.h -text
 gw/wap_push_ppg.c -text
 gw/wap_push_ppg.h -text
 gw/wapbox.c -text
