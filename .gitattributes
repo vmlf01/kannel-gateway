@@ -309,7 +309,7 @@ gwlib/xmlrpc.h -text
 solaris/copyright -text
 solaris/etc/kannel.conf -text
 solaris/mk-solaris-package.sh -text
-solaris/pkginfo -text
+solaris/pkginfo.tmpl -text
 solaris/prototype.tmpl -text
 solaris/readme.txt -text
 test/blacklist.txt -text
