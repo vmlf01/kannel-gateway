@@ -125,6 +125,7 @@ test/test_octstr_immutables
 test/test_pdu
 test/test_ppg
 test/test_si
+test/test_sl
 test/test_smsc
 test/test_udp
 test/test_urltrans

@@ -193,6 +193,8 @@ gw/wap_push_ppg_pushuser.c -text
 gw/wap_push_ppg_pushuser.h -text
 gw/wap_push_si_compiler.c -text
 gw/wap_push_si_compiler.h -text
+gw/wap_push_sl_compiler.c -text
+gw/wap_push_sl_compiler.h -text
 gw/wapbox.c -text
 gw/wapkannel.conf -text
 gw/wml_compiler.c -text
@@ -291,6 +293,7 @@ test/test_octstr_immutables.c -text
 test/test_pdu.c -text
 test/test_ppg.c -text
 test/test_si.c -text
+test/test_sl.c -text
 test/test_smsc.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
