@@ -101,6 +101,7 @@ gw/shared.h -text
 gw/smpp_pdu.c -text
 gw/smpp_pdu.def -text
 gw/smpp_pdu.h -text
+gw/sms.h -text
 gw/smsbox.c -text
 gw/smsc.c -text
 gw/smsc.h -text
