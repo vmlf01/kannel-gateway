@@ -82,6 +82,7 @@ gw/wdp_udp.c -text
 gw/wdp_udp.h -text
 gw/wml_compiler.c -text
 gw/wml_compiler.h -text
+gw/wml_definitions.h -text
 gw/wsp.c -text
 gw/wsp.h -text
 gw/wsp_events-decl.h -text
