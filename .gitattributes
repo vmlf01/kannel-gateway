@@ -235,6 +235,10 @@ wap/wsp_headers.h -text
 wap/wsp_pdu.c -text
 wap/wsp_pdu.def -text
 wap/wsp_pdu.h -text
+wap/wsp_push_client.c -text
+wap/wsp_push_client.h -text
+wap/wsp_push_client_machine.def -text
+wap/wsp_push_client_states.def -text
 wap/wsp_server_method_machine.def -text
 wap/wsp_server_method_states.def -text
 wap/wsp_server_session_machine.def -text
