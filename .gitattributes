@@ -292,6 +292,7 @@ solaris/mk-solaris-package.sh -text
 solaris/pkginfo -text
 solaris/prototype.tmpl -text
 solaris/readme.txt -text
+test/blacklist.txt -text
 test/bookmark.txt -text
 test/chartest.html -text
 test/decompile.c -text
