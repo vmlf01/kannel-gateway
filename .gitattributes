@@ -252,6 +252,7 @@ gw/smsc/smsc_sema.c -text
 gw/smsc/smsc_sema.h -text
 gw/smsc/smsc_smasi.c -text
 gw/smsc/smsc_smpp.c -text
+gw/smsc/smsc_soap.c -text
 gw/smsc/smsc_wrapper.c -text
 gw/smscconn.c -text
 gw/smscconn.h -text
