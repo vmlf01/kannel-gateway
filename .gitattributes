@@ -210,6 +210,8 @@ gw/html.c -text
 gw/html.h -text
 gw/kannel.8 -text
 gw/key.pem -text
+gw/mime_decompiler.c -text
+gw/mime_decompiler.h -text
 gw/msg-decl.h -text
 gw/msg.c -text
 gw/msg.h -text
