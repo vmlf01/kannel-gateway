@@ -95,6 +95,9 @@ gw/wsp.h -text
 gw/wsp_headers.c -text
 gw/wsp_headers.h -text
 gw/wsp_machine-decl.h -text
+gw/wsp_pdu.c -text
+gw/wsp_pdu.def -text
+gw/wsp_pdu.h -text
 gw/wsp_state-decl.h -text
 gw/wtp.c -text
 gw/wtp.h -text
