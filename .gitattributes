@@ -206,6 +206,7 @@ gw/smsc/smsc_emi2.c -text
 gw/smsc/smsc_fake.c -text
 gw/smsc/smsc_http.c -text
 gw/smsc/smsc_ois.c -text
+gw/smsc/smsc_oisd.c -text
 gw/smsc/smsc_p.h -text
 gw/smsc/smsc_sema.c -text
 gw/smsc/smsc_sema.h -text
