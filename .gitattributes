@@ -76,6 +76,7 @@ test/fakesmsc.c -text
 test/html-test-1 -text
 test/simple.smsconf -text
 test/test_msg.c -text
+test/udp_send.c -text
 test/wapbox_feeder.c -text
 utils/OTAbitmap.c -text
 utils/OTAbitmap.h -text
