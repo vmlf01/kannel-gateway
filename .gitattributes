@@ -2,6 +2,7 @@
 /ChangeLog -text
 /LICENSE -text
 /Makefile -text
+/README -text
 /README.src -text
 /Release-0.1 -text
 /Rules.mk -text
