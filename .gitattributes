@@ -349,6 +349,8 @@ gwlib/octstr.h -text
 gwlib/octstr.h.debug -text
 gwlib/parse.c -text
 gwlib/parse.h -text
+gwlib/pcre.c -text
+gwlib/pcre.h -text
 gwlib/pki.c -text
 gwlib/pki.h -text
 gwlib/protected.c -text
@@ -420,6 +422,7 @@ test/test_octstr_format.c -text
 test/test_octstr_immutables.c -text
 test/test_ota.c -text
 test/test_pap.c -text
+test/test_pcre.c -text
 test/test_pdu.c -text
 test/test_ppg.c -text
 test/test_radius_acct.c -text
