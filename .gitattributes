@@ -102,6 +102,7 @@ doc/arch/wap-arch.fig -text
 doc/arch/wap-session.fig -text
 doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
+doc/dlr-mysql.conf -text
 doc/fakewap-packets.txt -text
 doc/kannel.conf -text
 doc/modems.conf -text
