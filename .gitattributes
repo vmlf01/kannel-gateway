@@ -183,13 +183,13 @@ gw/shared.h -text
 gw/sms.c -text
 gw/sms.h -text
 gw/smsbox.c -text
-gw/smsc.h -text
 gw/smsc/emimsg.c -text
 gw/smsc/emimsg.h -text
 gw/smsc/smpp_pdu.c -text
 gw/smsc/smpp_pdu.def -text
 gw/smsc/smpp_pdu.h -text
 gw/smsc/smsc.c -text
+gw/smsc/smsc.h -text
 gw/smsc/smsc_at.c -text
 gw/smsc/smsc_at2.c -text
 gw/smsc/smsc_at2.h -text
@@ -201,11 +201,11 @@ gw/smsc/smsc_emi2.c -text
 gw/smsc/smsc_fake.c -text
 gw/smsc/smsc_http.c -text
 gw/smsc/smsc_ois.c -text
+gw/smsc/smsc_p.h -text
 gw/smsc/smsc_sema.c -text
 gw/smsc/smsc_sema.h -text
 gw/smsc/smsc_smpp.c -text
 gw/smsc/smsc_wrapper.c -text
-gw/smsc_p.h -text
 gw/smscconn.c -text
 gw/smscconn.h -text
 gw/smscconn_p.h -text
