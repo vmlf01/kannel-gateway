@@ -109,6 +109,8 @@ doc/wtls/wtls.html
 doc/wtls/wtls.pdf
 doc/wtls/wtls.ps
 doc/wtls/wtls.rtf
+/gw-config
+/gw-config.h
 gw/bb_core
 gw/bearerbox
 gw/smsbox
