@@ -69,6 +69,7 @@ debian/changelog.devel -text
 debian/conffiles -text
 debian/control -text
 debian/copyright -text
+debian/default -text
 debian/docs -text
 debian/init -text
 debian/kannel.conf -text
