@@ -16,6 +16,7 @@ benchmarks/functions.inc -text
 benchmarks/report-begin.txt -text
 benchmarks/report-end.txt -text
 benchmarks/run-benchmarks -text
+checks/check_compiler.sh -text
 checks/check_counter.c -text
 checks/check_date.c -text
 checks/check_fakesmsc.sh -text
@@ -217,6 +218,7 @@ test/test_smsc.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
 test/test_wakeup.c -text
+test/testcase.wml -text
 test/timestamp.c -text
 test/udpfeed.c -text
 test/wml_tester.c -text
