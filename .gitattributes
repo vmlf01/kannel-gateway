@@ -68,7 +68,6 @@ gw/alt_charsets.h -text
 gw/bb.h -text
 gw/bb_boxc.c -text
 gw/bb_http.c -text
-gw/bb_smsc.c -text
 gw/bb_smscconn.c -text
 gw/bb_smscconn_cb.h -text
 gw/bb_udp.c -text
