@@ -39,7 +39,6 @@ test/decompile
 test/drive_smpp
 test/drive_wapbox
 test/fakesmsc
-test/fakesmsc2
 test/fakewap
 test/test_cfg
 test/test_cimd2
