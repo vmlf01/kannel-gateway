@@ -127,6 +127,9 @@ gw/wml_compiler.h -text
 gw/wml_definitions.h -text
 gwlib/accesslog.c -text
 gwlib/accesslog.h -text
+gwlib/cfg.c -text
+gwlib/cfg.def -text
+gwlib/cfg.h -text
 gwlib/charset.c -text
 gwlib/charset.h -text
 gwlib/conffile.c -text
@@ -189,7 +192,6 @@ test/decompile.h -text
 test/drive_smpp.c -text
 test/drive_smpp.conf -text
 test/drive_wapbox.c -text
-test/fake.conf -text
 test/fakesmsc.c -text
 test/fakesmsc2.c -text
 test/fakewap.c -text
@@ -198,6 +200,7 @@ test/hello.wml -text
 test/html-test-1 -text
 test/http2-test-urls -text
 test/run-http2-tests -text
+test/test_cfg.c -text
 test/test_cimd2.c -text
 test/test_dict.c -text
 test/test_headers.c -text

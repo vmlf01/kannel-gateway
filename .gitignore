@@ -40,6 +40,7 @@ test/drive_wapbox
 test/fakesmsc
 test/fakesmsc2
 test/fakewap
+test/test_cfg
 test/test_cimd2
 test/test_counter
 test/test_dict
