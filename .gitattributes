@@ -236,7 +236,9 @@ gwlib/list.h -text
 gwlib/log.c -text
 gwlib/log.h -text
 gwlib/octstr.c -text
+gwlib/octstr.c.debug -text
 gwlib/octstr.h -text
+gwlib/octstr.h.debug -text
 gwlib/parse.c -text
 gwlib/parse.h -text
 gwlib/pki.c -text
