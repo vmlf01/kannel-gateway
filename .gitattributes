@@ -56,6 +56,8 @@ gw/bearerbox.h -text
 gw/cgi.c -text
 gw/cgi.h -text
 gw/control.html -text
+gw/cookies.c -text
+gw/cookies.h -text
 gw/html.c -text
 gw/html.h -text
 gw/msg-decl.h -text
