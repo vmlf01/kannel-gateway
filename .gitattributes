@@ -74,6 +74,7 @@ gw/numhash.h -text
 gw/shared.c -text
 gw/shared.h -text
 gw/smsbox.c -text
+gw/smsbox.h -text
 gw/smsbox_req.c -text
 gw/smsbox_req.h -text
 gw/smsc.c -text
