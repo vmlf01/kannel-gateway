@@ -49,7 +49,12 @@ debian/rules -text
 doc/CodingStyle -text
 doc/TESTCASES -text
 doc/arch/arch.xml -text
-doc/arch/wapbox-arch.fig -text
+doc/arch/bearerbox-arch.fig -text
+doc/arch/external-interfaces.fig -text
+doc/arch/kannel-boxes.fig -text
+doc/arch/wap-arch.fig -text
+doc/arch/wap-session.fig -text
+doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
 doc/fakewap-packets.txt -text
 doc/release.txt -text
