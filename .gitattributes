@@ -183,7 +183,7 @@ solaris/copyright -text
 solaris/etc/kannel.conf -text
 solaris/mk-solaris-package.sh -text
 solaris/pkginfo -text
-solaris/prototype -text
+solaris/prototype.tmpl -text
 solaris/readme.txt -text
 test/chartest.html -text
 test/decompile.c -text
