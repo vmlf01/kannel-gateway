@@ -84,6 +84,8 @@ gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
 gw/control.html -text
+gw/emimsg.c -text
+gw/emimsg.h -text
 gw/heartbeat.c -text
 gw/heartbeat.h -text
 gw/html.c -text
@@ -107,6 +109,7 @@ gw/smsc_at.c -text
 gw/smsc_cimd.c -text
 gw/smsc_cimd2.c -text
 gw/smsc_emi.c -text
+gw/smsc_emi2.c -text
 gw/smsc_fake.c -text
 gw/smsc_http.c -text
 gw/smsc_interface.def -text
