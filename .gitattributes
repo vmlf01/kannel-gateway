@@ -140,8 +140,6 @@ gwlib/gwmem-native.c -text
 gwlib/gwmem.h -text
 gwlib/gwpoll.c -text
 gwlib/gwpoll.h -text
-gwlib/gwstr.c -text
-gwlib/gwstr.h -text
 gwlib/gwthread-pthread.c -text
 gwlib/gwthread.h -text
 gwlib/http.c -text
