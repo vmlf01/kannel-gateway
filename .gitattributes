@@ -22,12 +22,12 @@ checks/test_dates -text
 /configure.in -text
 contrib/html2wml.pl -text
 debian/changelog -text
+debian/conffiles -text
 debian/control -text
 debian/copyright -text
 debian/docs -text
 debian/init -text
 debian/kannel.conf -text
-debian/kannel.wapconf -text
 debian/rules -text
 doc/CodingStyle -text
 doc/TESTCASES -text
@@ -64,6 +64,7 @@ gw/cookies.c -text
 gw/cookies.h -text
 gw/html.c -text
 gw/html.h -text
+gw/kannel.8 -text
 gw/msg-decl.h -text
 gw/msg.c -text
 gw/msg.h -text
@@ -225,7 +226,9 @@ utils/kannel-nag -text
 utils/makedist -text
 utils/pixmapgen.pl -text
 utils/run-checks -text
+utils/run_kannel_box.8 -text
 utils/run_kannel_box.c -text
+utils/seewbmp.1 -text
 utils/seewbmp.c -text
 utils/source-stats -text
 utils/start-stop-daemon.8 -text
@@ -236,7 +239,9 @@ utils/wbmp.h -text
 utils/win1257unicode.txt -text
 wmlscript/lexer.txt -text
 wmlscript/make-op-table.in -text
+wmlscript/wmlsc.1 -text
 wmlscript/wmlsc.c -text
+wmlscript/wmlsdasm.1 -text
 wmlscript/wmlsdasm.c -text
 wmlscript/ws.c -text
 wmlscript/ws.h -text
