@@ -8,6 +8,7 @@ benchmarks/report.html
 benchmarks/report.pdf
 benchmarks/report.ps
 benchmarks/report.xml
+/build-stamp
 checks/check_counter
 checks/check_date
 checks/check_ipcheck
@@ -24,6 +25,8 @@ debian/postrm.debhelper
 debian/prerm.debhelper
 debian/substvars
 debian/tmp
+/diff
+/diff2
 doc/alligata/11-1.ps
 doc/alligata/11-3.ps
 doc/alligata/11-4.ps
