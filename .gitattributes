@@ -69,6 +69,8 @@ gw/bb.h -text
 gw/bb_boxc.c -text
 gw/bb_http.c -text
 gw/bb_smsc.c -text
+gw/bb_smscconn_cb.c -text
+gw/bb_smscconn_cb.h -text
 gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
