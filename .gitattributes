@@ -100,6 +100,7 @@ gw/wtp_timer.h -text
 gwlib/conffile.c -text
 gwlib/conffile.h -text
 gwlib/getnameinfo.h -text
+gwlib/gwassert.h -text
 gwlib/gwlib.h -text
 gwlib/gwmem.c -text
 gwlib/gwmem.h -text
