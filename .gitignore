@@ -128,6 +128,7 @@ test/test_counter
 test/test_dbpool
 test/test_dict
 test/test_headers
+test/test_hmac
 test/test_http
 test/test_http_server
 test/test_list
