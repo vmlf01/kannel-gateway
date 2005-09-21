@@ -19,6 +19,7 @@ checks/check_octstr
 /config.cache
 /config.h
 /config.log
+/config.nice
 /config.status
 debian/*.debhelper
 debian/*.substvars
