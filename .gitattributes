@@ -324,6 +324,7 @@ gwlib/dbpool_p.h -text
 gwlib/dbpool_pgsql.c -text
 gwlib/dbpool_sdb.c -text
 gwlib/dbpool_sqlite.c -text
+gwlib/dbpool_sqlite3.c -text
 gwlib/dict.c -text
 gwlib/dict.h -text
 gwlib/fdset.c -text
