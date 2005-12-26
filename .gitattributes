@@ -297,6 +297,7 @@ gw/wap_push_sl_compiler.c -text
 gw/wap_push_sl_compiler.h -text
 gw/wapbox.c -text
 gw/wapkannel.conf -text
+gw/wbxml_tokens.def -text
 gw/wml_compiler.c -text
 gw/wml_compiler.h -text
 gw/wml_definitions.h -text
