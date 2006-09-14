@@ -451,6 +451,7 @@ test/test_regex.c -text
 test/test_si.c -text
 test/test_sl.c -text
 test/test_smsc.c -text
+test/test_store_dump.c -text
 test/test_udp.c -text
 test/test_urltrans.c -text
 test/test_uuid.c -text
