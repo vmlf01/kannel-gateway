@@ -129,6 +129,7 @@ test/fakewap
 test/test_boxc
 test/test_cfg
 test/test_cimd2
+test/test_conn
 test/test_counter
 test/test_dbpool
 test/test_dict
@@ -157,6 +158,7 @@ test/test_regex
 test/test_si
 test/test_sl
 test/test_smsc
+test/test_store_dump
 test/test_udp
 test/test_urltrans
 test/test_uuid
