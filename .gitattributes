@@ -352,6 +352,7 @@ gwlib/gwthread.h -text
 gwlib/html-entities.def -text
 gwlib/http.c -text
 gwlib/http.h -text
+gwlib/latin1_to_gsm.h -text
 gwlib/list.c -text
 gwlib/list.h -text
 gwlib/log.c -text
