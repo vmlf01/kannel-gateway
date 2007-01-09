@@ -405,6 +405,7 @@ solaris/readme.txt -text
 test/blacklist.txt -text
 test/bookmark.txt -text
 test/chartest.html -text
+test/decode_emimsg.c -text
 test/decompile.c -text
 test/decompile.h -text
 test/dlr-receiver.py -text
