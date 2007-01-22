@@ -121,6 +121,7 @@ gw/smsbox
 gw/wapbox
 gwlib/gw_uuid_types.h
 test/*.exe
+test/decode_emimsg
 test/decompile
 test/drive_smpp
 test/drive_wapbox
