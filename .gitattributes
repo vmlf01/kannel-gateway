@@ -199,6 +199,9 @@ gw/bb_http.c -text
 gw/bb_smscconn.c -text
 gw/bb_smscconn_cb.h -text
 gw/bb_store.c -text
+gw/bb_store.h -text
+gw/bb_store_file.c -text
+gw/bb_store_spool.c -text
 gw/bb_udp.c -text
 gw/bearerbox.c -text
 gw/bearerbox.h -text
