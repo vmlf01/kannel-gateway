@@ -427,6 +427,7 @@ test/sl.txt -text
 test/smstestppg.txt -text
 test/test_boxc.c -text
 test/test_cfg.c -text
+test/test_charset.c -text
 test/test_cimd2.c -text
 test/test_conn.c -text
 test/test_dbpool.c -text
