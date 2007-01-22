@@ -129,6 +129,7 @@ test/fakesmsc
 test/fakewap
 test/test_boxc
 test/test_cfg
+test/test_charset
 test/test_cimd2
 test/test_conn
 test/test_counter
