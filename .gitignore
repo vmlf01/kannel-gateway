@@ -1,5 +1,7 @@
 /*.a
+/.cproject
 /.depend
+/.project
 /Makefile
 benchmarks/bench_http.png
 benchmarks/bench_http.ps
