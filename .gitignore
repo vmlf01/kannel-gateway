@@ -3,6 +3,7 @@
 /.depend
 /.project
 /Makefile
+/autom4te.cache
 benchmarks/bench_http.png
 benchmarks/bench_http.ps
 benchmarks/bench_sms.png
