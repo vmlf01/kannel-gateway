@@ -90,6 +90,7 @@ doc/arch/wap-session.png
 doc/arch/wap-session.ps
 doc/arch/wapbox-threads.png
 doc/arch/wapbox-threads.ps
+doc/doxygen/html
 doc/userguide/sms-gateway.png
 doc/userguide/sms-gateway.ps
 doc/userguide/userguide.html
