@@ -225,6 +225,8 @@ gw/kannel.8 -text
 gw/key.pem -text
 gw/load.c -text
 gw/load.h -text
+gw/meta_data.c -text
+gw/meta_data.h -text
 gw/mime_decompiler.c -text
 gw/mime_decompiler.h -text
 gw/msg-decl.h -text
