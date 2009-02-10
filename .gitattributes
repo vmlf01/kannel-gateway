@@ -439,6 +439,7 @@ test/test_cfg.c -text
 test/test_charset.c -text
 test/test_cimd2.c -text
 test/test_conn.c -text
+test/test_date.c -text
 test/test_dbpool.c -text
 test/test_dict.c -text
 test/test_headers.c -text
