@@ -12,7 +12,6 @@ benchmarks/report.html
 benchmarks/report.pdf
 benchmarks/report.ps
 benchmarks/report.xml
-/bootstrap.sh
 /build-stamp
 checks/*.exe
 checks/*.i

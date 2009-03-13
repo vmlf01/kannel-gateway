@@ -9,6 +9,7 @@
 /README -text
 /STATUS -text
 /VERSION -text
+/acinclude.m4 -text
 /aclocal.m4 -text
 benchmarks/bench_http.sh -text
 benchmarks/bench_http.txt -text
@@ -19,6 +20,7 @@ benchmarks/functions.inc -text
 benchmarks/report-begin.txt -text
 benchmarks/report-end.txt -text
 benchmarks/run-benchmarks -text
+/bootstrap.sh -text
 checks/check_compiler.sh -text
 checks/check_counter.c -text
 checks/check_date.c -text
