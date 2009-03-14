@@ -37,6 +37,7 @@ checks/check_sendsms.sh -text
 checks/check_smpp.sh -text
 checks/test_dates -text
 /config.guess -text
+/config.rpath -text
 /config.sub -text
 /configure -text
 /configure.in -text
