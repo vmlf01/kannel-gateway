@@ -417,7 +417,6 @@ solaris/readme.txt -text
 test/blacklist.txt -text
 test/bookmark.txt -text
 test/chartest.html -text
-test/decode_emimsg.c -text
 test/decompile.c -text
 test/decompile.h -text
 test/dlr-receiver.py -text
@@ -490,6 +489,7 @@ utils/build-cygwin-package -text
 utils/changelog-report -text
 utils/chlog-stats -text
 utils/daily-patch -text
+utils/decode_emimsg.c -text
 utils/find-long-lines -text
 utils/foobar-config.sh -text
 utils/kannel-init.d -text
