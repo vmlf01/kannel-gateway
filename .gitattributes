@@ -215,6 +215,7 @@ gw/control.html -text
 gw/dlr.c -text
 gw/dlr.h -text
 gw/dlr_mem.c -text
+gw/dlr_mssql.c -text
 gw/dlr_mysql.c -text
 gw/dlr_oracle.c -text
 gw/dlr_p.h -text
@@ -332,6 +333,7 @@ gwlib/date.c -text
 gwlib/date.h -text
 gwlib/dbpool.c -text
 gwlib/dbpool.h -text
+gwlib/dbpool_mssql.c -text
 gwlib/dbpool_mysql.c -text
 gwlib/dbpool_oracle.c -text
 gwlib/dbpool_p.h -text
