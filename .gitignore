@@ -143,6 +143,7 @@ test/test_charset
 test/test_cimd2
 test/test_conn
 test/test_counter
+test/test_date
 test/test_dbpool
 test/test_dict
 test/test_headers
@@ -185,6 +186,7 @@ test/wapproxy
 test/wml_tester
 utils/*.exe
 utils/*.i
+utils/decode_emimsg
 utils/mtbatch
 utils/run_kannel_box
 utils/seewbmp
