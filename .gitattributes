@@ -271,6 +271,7 @@ gw/smsc/smsc_emi.c -text
 gw/smsc/smsc_emi_x25.c -text
 gw/smsc/smsc_fake.c -text
 gw/smsc/smsc_http.c -text
+gw/smsc/smsc_loopback.c -text
 gw/smsc/smsc_ois.c -text
 gw/smsc/smsc_oisd.c -text
 gw/smsc/smsc_p.h -text
