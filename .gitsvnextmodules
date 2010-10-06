@@ -1,0 +1,16 @@
+[submodule "addons/opensmppbox"]
+	path = addons/opensmppbox
+	owner = addons
+	url = https://svn.kannel.org/opensmppbox/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
+[submodule "addons/sqlbox"]
+	path = addons/sqlbox
+	owner = addons
+	url = https://svn.kannel.org/sqlbox/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
