@@ -2,6 +2,7 @@
 /.cproject
 /.depend
 /.project
+/.settings
 /Makefile
 /autom4te.cache
 benchmarks/bench_http.png
