@@ -176,6 +176,7 @@ doc/doxygen/kannel.conf -text
 doc/examples/dlr-mysql.conf -text
 doc/examples/dlr-oracle.conf -text
 doc/examples/dlr-sdb.conf -text
+doc/examples/dlr-sqlite3.conf -text
 doc/examples/kannel.conf -text
 doc/examples/modems.conf -text
 doc/fakewap-packets.txt -text
@@ -224,6 +225,7 @@ gw/dlr_oracle.c -text
 gw/dlr_p.h -text
 gw/dlr_pgsql.c -text
 gw/dlr_sdb.c -text
+gw/dlr_sqlite3.c -text
 gw/heartbeat.c -text
 gw/heartbeat.h -text
 gw/html.c -text
