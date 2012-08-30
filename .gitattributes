@@ -259,6 +259,11 @@ gw/sms.h -text
 gw/smsbox.c -text
 gw/smsc/emimsg.c -text
 gw/smsc/emimsg.h -text
+gw/smsc/http/brunet.c -text
+gw/smsc/http/clickatell.c -text
+gw/smsc/http/generic.c -text
+gw/smsc/http/wapme.c -text
+gw/smsc/http/xidris.c -text
 gw/smsc/smasi_pdu.c -text
 gw/smsc/smasi_pdu.def -text
 gw/smsc/smasi_pdu.h -text
