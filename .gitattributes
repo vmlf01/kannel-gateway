@@ -291,6 +291,7 @@ gw/smsc/smsc_sema.h -text
 gw/smsc/smsc_smasi.c -text
 gw/smsc/smsc_smpp.c -text
 gw/smsc/smsc_soap.c -text
+gw/smsc/smsc_soap_parlayx.c -text
 gw/smsc/smsc_wrapper.c -text
 gw/smscconn.c -text
 gw/smscconn.h -text
@@ -422,6 +423,18 @@ radius/radius_attributes.def -text
 radius/radius_pdu.c -text
 radius/radius_pdu.def -text
 radius/radius_pdu.h -text
+soap/Makefile.in -text
+soap/service/parlayx/parlayx_sms_send_service_2_1_wrapper.h -text
+soap/service/parlayx/typemap.dat -text
+soap/service/parlayx/wsdl/parlayx_common_faults_2_0.wsdl -text
+soap/service/parlayx/wsdl/parlayx_common_types_2_1.xsd -text
+soap/service/parlayx/wsdl/parlayx_sms_notification_interface_2_1.wsdl -text
+soap/service/parlayx/wsdl/parlayx_sms_notification_service_2_1.wsdl -text
+soap/service/parlayx/wsdl/parlayx_sms_receive_interface_2_1.wsdl -text
+soap/service/parlayx/wsdl/parlayx_sms_receive_service_2_1.wsdl -text
+soap/service/parlayx/wsdl/parlayx_sms_send_interface_2_1.wsdl -text
+soap/service/parlayx/wsdl/parlayx_sms_send_service_2_1.wsdl -text
+soap/service/parlayx/wsdl/parlayx_sms_types_2_1.xsd -text
 solaris/copyright -text
 solaris/etc/kannel.conf -text
 solaris/mk-solaris-package.sh -text
