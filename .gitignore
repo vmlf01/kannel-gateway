@@ -130,6 +130,7 @@ gw/wapbox
 gwlib/*.i
 gwlib/gw_uuid_types.h
 radius/*.i
+soap/Makefile
 test/*.exe
 test/*.i
 test/decode_emimsg
