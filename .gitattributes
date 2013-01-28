@@ -172,7 +172,7 @@ doc/arch/wap-arch.fig -text
 doc/arch/wap-session.fig -text
 doc/arch/wapbox-threads.fig -text
 doc/dialup.txt -text
-doc/doxygen/kannel.conf -text
+doc/doxygen/kannel.conf -text svn_keywords=Revision
 doc/examples/dlr-mysql.conf -text
 doc/examples/dlr-oracle.conf -text
 doc/examples/dlr-sdb.conf -text
