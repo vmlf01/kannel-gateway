@@ -424,6 +424,10 @@ radius/radius_pdu.c -text
 radius/radius_pdu.def -text
 radius/radius_pdu.h -text
 soap/Makefile.in -text
+soap/env.c -text
+soap/env.h -text
+soap/env_fault.h -text
+soap/env_header.h -text
 soap/service/parlayx/parlayx_sms_send_service_2_1_wrapper.h -text
 soap/service/parlayx/typemap.dat -text
 soap/service/parlayx/wsdl/parlayx_common_faults_2_0.wsdl -text
