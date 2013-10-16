@@ -131,6 +131,11 @@ gwlib/*.i
 gwlib/gw_uuid_types.h
 radius/*.i
 soap/Makefile
+soap/envC.c
+soap/envH.h
+soap/envStub.h
+soap/h.nsmap
+soap/h.xsd
 soap/service/parlayx/mecevp.c
 soap/service/parlayx/parlayx.nsmap
 soap/service/parlayx/parlayxC.c
