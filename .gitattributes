@@ -366,6 +366,8 @@ gwlib/gw-prioqueue.c -text
 gwlib/gw-prioqueue.h -text
 gwlib/gw-rwlock.c -text
 gwlib/gw-rwlock.h -text
+gwlib/gw-timer.c -text
+gwlib/gw-timer.h -text
 gwlib/gw_uuid.c -text
 gwlib/gw_uuid.h -text
 gwlib/gw_uuid_types.h.in -text
