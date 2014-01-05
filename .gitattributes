@@ -175,6 +175,7 @@ doc/dialup.txt -text
 doc/doxygen/kannel.conf -text svn_keywords=Revision
 doc/examples/dlr-mysql.conf -text
 doc/examples/dlr-oracle.conf -text
+doc/examples/dlr-redis.conf -text
 doc/examples/dlr-sdb.conf -text
 doc/examples/dlr-sqlite3.conf -text
 doc/examples/kannel.conf -text
@@ -224,6 +225,7 @@ gw/dlr_mysql.c -text
 gw/dlr_oracle.c -text
 gw/dlr_p.h -text
 gw/dlr_pgsql.c -text
+gw/dlr_redis.c -text
 gw/dlr_sdb.c -text
 gw/dlr_spool.c -text
 gw/dlr_sqlite3.c -text
@@ -351,6 +353,7 @@ gwlib/dbpool_mysql.c -text
 gwlib/dbpool_oracle.c -text
 gwlib/dbpool_p.h -text
 gwlib/dbpool_pgsql.c -text
+gwlib/dbpool_redis.c -text
 gwlib/dbpool_sdb.c -text
 gwlib/dbpool_sqlite.c -text
 gwlib/dbpool_sqlite3.c -text
