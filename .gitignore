@@ -136,6 +136,9 @@ soap/envH.h
 soap/envStub.h
 soap/h.nsmap
 soap/h.xsd
+soap/plugin/mecevp.c
+soap/plugin/smdevp.c
+soap/plugin/wsseapi.c
 soap/service/parlayx/mecevp.c
 soap/service/parlayx/parlayx.nsmap
 soap/service/parlayx/parlayxC.c
