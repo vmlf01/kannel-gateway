@@ -139,6 +139,9 @@ soap/h.xsd
 soap/plugin/mecevp.c
 soap/plugin/smdevp.c
 soap/plugin/wsseapi.c
+soap/service/parlayx/ReceiveSmsBinding.nsmap
+soap/service/parlayx/SendSmsBinding.nsmap
+soap/service/parlayx/SmsNotificationBinding.nsmap
 soap/service/parlayx/mecevp.c
 soap/service/parlayx/parlayx.nsmap
 soap/service/parlayx/parlayxC.c
@@ -150,6 +153,11 @@ soap/service/parlayx/parlayxServerLib.c
 soap/service/parlayx/parlayxStub.h
 soap/service/parlayx/parlayx_sms_send_service_2_1.h
 soap/service/parlayx/smdevp.c
+soap/service/parlayx/soapC.c
+soap/service/parlayx/soapClient.c
+soap/service/parlayx/soapH.h
+soap/service/parlayx/soapServer.c
+soap/service/parlayx/soapStub.h
 soap/service/parlayx/wsseapi.c
 soap/service/parlayx/wsseapi.h
 test/*.exe
