@@ -404,6 +404,7 @@ gwlib/pcre.h -text
 gwlib/pki.c -text
 gwlib/pki.h -text
 gwlib/protected.c -text
+gwlib/protected.c.new -text
 gwlib/protected.h -text
 gwlib/regex.c -text
 gwlib/regex.h -text
