@@ -181,6 +181,7 @@ doc/examples/dlr-sdb.conf -text
 doc/examples/dlr-sqlite3.conf -text
 doc/examples/kannel.conf -text
 doc/examples/modems.conf -text
+doc/examples/store-redis.conf -text
 doc/fakewap-packets.txt -text
 doc/release.txt -text
 doc/userguide/sms-gateway.fig -text
@@ -212,6 +213,7 @@ gw/bb_smscconn_cb.h -text
 gw/bb_store.c -text
 gw/bb_store.h -text
 gw/bb_store_file.c -text
+gw/bb_store_redis.c -text
 gw/bb_store_spool.c -text
 gw/bb_udp.c -text
 gw/bearerbox.c -text
