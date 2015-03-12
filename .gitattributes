@@ -424,7 +424,6 @@ gwlib/utils.h -text
 gwlib/xmlrpc.c -text
 gwlib/xmlrpc.h -text
 /install-sh -text
-/missing -text
 /mkinstalldirs -text
 radius/radius_acct.c -text
 radius/radius_acct.h -text
