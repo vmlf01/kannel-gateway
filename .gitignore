@@ -129,6 +129,8 @@ gw/smsc/*.i
 gw/wapbox
 gwlib/*.i
 gwlib/gw_uuid_types.h
+/libtool
+/ltmain.sh
 radius/*.i
 soap/Makefile
 soap/envC.c
@@ -160,6 +162,7 @@ soap/service/parlayx/soapServer.c
 soap/service/parlayx/soapStub.h
 soap/service/parlayx/wsseapi.c
 soap/service/parlayx/wsseapi.h
+/stamp-h1
 test/*.exe
 test/*.i
 test/decode_emimsg
